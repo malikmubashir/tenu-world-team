@@ -79,12 +79,19 @@
 </header>
 
 <div class="crit">
-  <b>Critical path · Phase 1B starts today:</b> dispute-letter avocat brief still not sent. FR opinion window 31 May to 7 Jun. The brief must go this week or the window slips.
+  <b>Critical path (replan 2026-07-02):</b> three external clocks gate everything — AWS Bedrock model access #T213 (24-72h, GO/NO-GO criterion D4), Play org account verification #T020 (2-7 days, Android auto-drops if not cleared by 10 Jul), avocat sign-off #T111 (hard gate on paid signups beyond F&amp;F). Code freeze Wed 8 Jul · GO/NO-GO Fri 10 Jul.
 </div>
 
 <div class="alert">
-  <b>Data note:</b> Line-level due dates re-baselined 2026-05-21 against the six-phase plan. 1A RGPD 18-31 May, 1B legal 21 May - 13 Jun, Phase 2 tech 21 May - 6 Jun, Phase 4 paid funnel 15-22 Jun, Phase 5 native 29 Jun - 13 Jul. Public launch target 15 Jul.
+  <b>Data note:</b> Line-level due dates re-baselined 2026-07-02 (REPLAN D-13 section in TASKS.md). Lines marked CONFIRM STATUS may have been completed 16 Jun-2 Jul — close with dated note instead of re-executing.
 </div>
+
+
+<section class="card replan" style="margin-bottom:24px">
+  <h2><span class="dot" style="background:#0B1F3A"></span>Replan 2026-07-02 — day-by-day schedule</h2>
+  <div style="font-size:12.5px;color:var(--muted)"><p>All open lines re-dated 2026-07-02. Sequencing logic: external clocks first (AWS model access 24-72h, Play org verification 2-7 days, MEDICYS certificate, avocat letter), then dependency chains, then pre-freeze hardening. Lines marked CONFIRM STATUS may already be done during 16 Jun-2 Jul (dark period) — close them with dated notes instead of executing.</p></div>
+  <ul style="margin:8px 0 0;padding-left:18px;font-size:13px;line-height:1.7"><li><b>Thu 2 Jul (TODAY)</b> — MH: <a href="#task-T213">#T213</a> AWS account + model access (longest clock), <a href="#task-T015">#T015</a> D-U-N-S, <a href="#task-T023">#T023</a> name match, <a href="#task-T020">#T020</a> Play org account, <a href="#task-T130">#T130</a> OTP capture, <a href="#task-T216">#T216</a> legal pages check, <a href="#task-T170">#T170</a> www DNS. All under 30 min each except <a href="#task-T213">#T213</a>/<a href="#task-T020">#T020</a>.</li><li><b>Fri 3 Jul</b> — MH: <a href="#task-T060">#T060</a> Android keystore→assetlinks (auth is broken on Android until this deploys), <a href="#task-T059">#T059</a> iOS physical device, <a href="#task-T088">#T088</a> MEDICYS (confirm), <a href="#task-T092">#T092</a>/<a href="#task-T097">#T097</a> F&amp;F list+coupon (confirm), <a href="#task-T138">#T138</a>/<a href="#task-T181">#T181</a>/<a href="#task-T197">#T197</a> avocat chase+addendum, <a href="#task-T091">#T091</a> dpo@, <a href="#task-T163">#T163</a> residual, <a href="#task-T140">#T140</a> close stale iOS lines. CC: <a href="#task-T220">#T220</a> docs/16 D4 amendment, <a href="#task-T184">#T184</a> instrumentation, <a href="#task-T196">#T196</a> attribution.</li><li><b>Sat 4 Jul</b> — MH: OAuth chain start <a href="#task-T028">#T028</a>-<a href="#task-T030">#T030</a> (as dated), <a href="#task-T200">#T200</a> Mac mobile rebuild. CC: <a href="#task-T174">#T174</a> static export + cap sync.</li><li><b>Sun 5 Jul</b> — MH: OAuth <a href="#task-T031">#T031</a>-<a href="#task-T033">#T033</a>, <a href="#task-T165">#T165</a> prod smoke, <a href="#task-T211">#T211</a> cookies, <a href="#task-T154">#T154</a>/<a href="#task-T155">#T155</a>. Umbrella <a href="#task-T136">#T136</a>.</li><li><b>Mon 6 Jul</b> — MH: OAuth finish <a href="#task-T034">#T034</a>-<a href="#task-T037">#T037</a> + <a href="#task-T173">#T173</a> flag, <a href="#task-T111">#T111</a> avocat sign-off HARD GATE, <a href="#task-T141">#T141</a> iOS submit-or-decouple decision, <a href="#task-T098">#T098</a> F&amp;F invites 09:00 (confirm). CC: <a href="#task-T214">#T214</a> Bedrock smoke+merge+key retirement, <a href="#task-T217">#T217</a> privacy AWS swap, <a href="#task-T062">#T062</a> parity audit.</li><li><b>Tue 7 Jul (last day before freeze)</b> — MH: <a href="#task-T066">#T066</a> DPAs, <a href="#task-T041">#T041</a>/<a href="#task-T042">#T042</a>/<a href="#task-T044">#T044</a> env hardening, <a href="#task-T077">#T077</a>/<a href="#task-T078">#T078</a> store copy + IAP stance, <a href="#task-T116">#T116</a>/<a href="#task-T117">#T117</a> fresh TestFlight archive + internal test. CC: <a href="#task-T147">#T147</a> Art.17 R2 purge, <a href="#task-T159">#T159</a> bypass removal, <a href="#task-T076">#T076</a> screenshots, <a href="#task-T101">#T101</a>/<a href="#task-T110">#T110</a>/<a href="#task-T158">#T158</a>/<a href="#task-T199">#T199</a>/<a href="#task-T201">#T201</a> pre-freeze quality, <a href="#task-T182">#T182</a> exit-first copy, <a href="#task-T099">#T099</a> F&amp;F monitoring.</li><li><b>Wed 8 Jul — CODE FREEZE <a href="#task-T144">#T144</a>.</b> CC: <a href="#task-T219">#T219</a> signed AAB → Play internal track (if <a href="#task-T020">#T020</a> verification cleared), <a href="#task-T142">#T142</a> monitoring doc.</li><li><b>Thu 9 Jul</b> — MH: <a href="#task-T166">#T166</a> legacy Supabase delete. CC: <a href="#task-T210">#T210</a> decommission, <a href="#task-T139">#T139</a> MEDICYS placeholders, <a href="#task-T193">#T193</a> R2 sweep. Outreach <a href="#task-T191">#T191</a>/<a href="#task-T192">#T192</a>/<a href="#task-T198">#T198</a> if MEDICYS closed.</li><li><b>Fri 10 Jul — GO/NO-GO <a href="#task-T143">#T143</a></b> against docs/16 §D4 incl. new Android criteria (<a href="#task-T220">#T220</a>). Android auto-drops to post-launch if Play verification not cleared (pre-agreed, DECISION 2026-07-02).</li><li><b>Post-launch reclass:</b> UK <a href="#task-T008">#T008</a>/<a href="#task-T090">#T090</a> → p:2 Aug. Push <a href="#task-T082">#T082</a> → 20 Jul. Ads <a href="#task-T190">#T190</a> → 16 Jul. <a href="#task-T102">#T102</a>-<a href="#task-T106">#T106</a>, <a href="#task-T118">#T118</a>/<a href="#task-T119">#T119</a>, <a href="#task-T129">#T129</a> (likely obsolete), <a href="#task-T160">#T160</a>, <a href="#task-T169">#T169</a>, <a href="#task-T003">#T003</a> → p:2.</li><li><b>Closed by inspection today:</b> #T179, #T180 (CLAUDE.md already corrected), #T135 (executed), #T164 (was done 10 Jun), #T137 (duplicate of <a href="#task-T098">#T098</a>).</li></ul>
+</section>
 
 <div class="kpi">
   <div class="stat"><div class="n">99</div><div class="lbl">Total open</div></div>
@@ -94,15 +101,13 @@
   <div class="stat bad"><div class="n">5</div><div class="lbl">Overdue vs today</div></div>
 </div>
 
-<div class="phase-strip">
-  <div class="ph partial"><div class="nm">Phase 0</div><div class="dt">18-20 May<br>reconcile</div></div>
-  <div class="ph active"><div class="nm">Phase 1A</div><div class="dt">18-31 May<br>RGPD</div></div>
-  <div class="ph active"><div class="nm">Phase 1B</div><div class="dt">21 May - 13 Jun<br>legal letter</div></div>
-  <div class="ph active"><div class="nm">Phase 2</div><div class="dt">21 May - 6 Jun<br>tech</div></div>
-  <div class="ph todo"><div class="nm">Phase 3</div><div class="dt">8-12 Jun<br>PMF waitlist</div></div>
-  <div class="ph todo"><div class="nm">Phase 4</div><div class="dt">15-22 Jun<br>paid funnel</div></div>
-  <div class="ph todo"><div class="nm">Phase 5</div><div class="dt">29 Jun - 13 Jul<br>native</div></div>
-  <div class="ph todo"><div class="nm">Phase 6</div><div class="dt">15 Jul+<br>public</div></div>
+<div class="phase-strip" style="grid-template-columns:repeat(6,1fr)">
+  <div class="ph active"><div class="nm">External clocks</div><div class="dt">2-3 Jul<br>AWS · Play · MEDICYS</div></div>
+  <div class="ph active"><div class="nm">OAuth + mobile</div><div class="dt">4-6 Jul<br>chain + rebuild</div></div>
+  <div class="ph todo"><div class="nm">Pre-freeze</div><div class="dt">7 Jul<br>DPAs · hardening</div></div>
+  <div class="ph todo"><div class="nm">Code freeze</div><div class="dt">Wed 8 Jul<br>#T144</div></div>
+  <div class="ph todo"><div class="nm">GO/NO-GO</div><div class="dt">Fri 10 Jul<br>#T143 · docs/16 §D4</div></div>
+  <div class="ph todo"><div class="nm">PUBLIC LAUNCH</div><div class="dt">Wed 15 Jul<br>web + iOS + Android*</div></div>
 </div>
 
 <div class="charts">

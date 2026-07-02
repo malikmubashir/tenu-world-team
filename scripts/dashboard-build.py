@@ -17,9 +17,17 @@ def parse():
     raw = TASKS_MD.read_text()
     section = "Unsectioned"
     items = []
+    replans = {}  # date -> list of body lines; latest REPLAN section rendered as schedule panel
+    replan_key = None
     for line in raw.splitlines():
         if line.startswith('## ') or line.startswith('### '):
-            section = line.lstrip('#').strip(); continue
+            section = line.lstrip('#').strip()
+            rm = re.match(r'REPLAN (\d{4}-\d{2}-\d{2})', section)
+            replan_key = rm.group(1) if rm else None
+            if replan_key: replans[replan_key] = []
+            continue
+        if replan_key and line.strip():
+            replans[replan_key].append(line.rstrip())
         m = re.match(r'^\- \[( |>|x|\-)\] ((?:MH|CC)(?: \(nights\))?): (.+)$', line)
         if not m: continue
         status_ch, owner, body = m.groups()
@@ -42,11 +50,41 @@ def parse():
         title = re.sub(r'\s*\([^)]*(?:p:\d|due\s*\d{4})[^)]*\)\s*', ' ', title_with_meta).strip()
         items.append({'section':section,'owner':owner,'title':title,'priority':prio,
                       'due':due,'status':status,'note':note,'task_id':task_id})
-    return items
+    return items, replans
 
 def esc(s): return html.escape(s or '')
 
-def render(items):
+def render_replan(replans, open_ids):
+    """Render the most recent '## REPLAN YYYY-MM-DD' section from TASKS.md as a schedule panel.
+    Markdown bullets become list rows; **bold** is honoured; #TNNN becomes an anchor link
+    when the task is open on this dashboard, plain text otherwise (closed/dropped)."""
+    if not replans:
+        return ''
+    key = max(replans)
+    body_lines = replans[key]
+    def inline(s):
+        s = esc(s)
+        s = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', s)
+        def idlink(m):
+            tid = m.group(0)[1:]
+            return f'<a href="#task-{tid}">#{tid}</a>' if tid in open_ids else m.group(0)
+        return re.sub(r'#T\d{3}', idlink, s)
+    rows, intro = [], []
+    for ln in body_lines:
+        if ln.lstrip().startswith('- '):
+            rows.append(f'<li>{inline(ln.lstrip()[2:])}</li>')
+        elif not rows:
+            intro.append(f'<p>{inline(ln)}</p>')
+    return f'''
+<section class="card replan" style="margin-bottom:24px">
+  <h2><span class="dot" style="background:#0B1F3A"></span>Replan {key} — day-by-day schedule</h2>
+  <div style="font-size:12.5px;color:var(--muted)">{''.join(intro)}</div>
+  <ul style="margin:8px 0 0;padding-left:18px;font-size:13px;line-height:1.7">{''.join(rows)}</ul>
+</section>'''
+
+def render(items, replans=None):
+    open_ids = {it['task_id'] for it in items}
+    replan_html = render_replan(replans or {}, open_ids)
     # Assign #N by file order, then sort for display
     by_prio = {'0':[],'1':[],'2':[]}
     for it in items: by_prio[it['priority']].append(it)
@@ -176,12 +214,14 @@ def render(items):
 </header>
 
 <div class="crit">
-  <b>Critical path · Phase 1B starts today:</b> dispute-letter avocat brief still not sent. FR opinion window 31 May to 7 Jun. The brief must go this week or the window slips.
+  <b>Critical path (replan 2026-07-02):</b> three external clocks gate everything — AWS Bedrock model access #T213 (24-72h, GO/NO-GO criterion D4), Play org account verification #T020 (2-7 days, Android auto-drops if not cleared by 10 Jul), avocat sign-off #T111 (hard gate on paid signups beyond F&amp;F). Code freeze Wed 8 Jul · GO/NO-GO Fri 10 Jul.
 </div>
 
 <div class="alert">
-  <b>Data note:</b> Line-level due dates re-baselined 2026-05-21 against the six-phase plan. 1A RGPD 18-31 May, 1B legal 21 May - 13 Jun, Phase 2 tech 21 May - 6 Jun, Phase 4 paid funnel 15-22 Jun, Phase 5 native 29 Jun - 13 Jul. Public launch target 15 Jul.
+  <b>Data note:</b> Line-level due dates re-baselined 2026-07-02 (REPLAN D-13 section in TASKS.md). Lines marked CONFIRM STATUS may have been completed 16 Jun-2 Jul — close with dated note instead of re-executing.
 </div>
+
+{replan_html}
 
 <div class="kpi">
   <div class="stat"><div class="n">{len(items)}</div><div class="lbl">Total open</div></div>
@@ -191,15 +231,13 @@ def render(items):
   <div class="stat bad"><div class="n">{overdue}</div><div class="lbl">Overdue vs today</div></div>
 </div>
 
-<div class="phase-strip">
-  <div class="ph partial"><div class="nm">Phase 0</div><div class="dt">18-20 May<br>reconcile</div></div>
-  <div class="ph active"><div class="nm">Phase 1A</div><div class="dt">18-31 May<br>RGPD</div></div>
-  <div class="ph active"><div class="nm">Phase 1B</div><div class="dt">21 May - 13 Jun<br>legal letter</div></div>
-  <div class="ph active"><div class="nm">Phase 2</div><div class="dt">21 May - 6 Jun<br>tech</div></div>
-  <div class="ph todo"><div class="nm">Phase 3</div><div class="dt">8-12 Jun<br>PMF waitlist</div></div>
-  <div class="ph todo"><div class="nm">Phase 4</div><div class="dt">15-22 Jun<br>paid funnel</div></div>
-  <div class="ph todo"><div class="nm">Phase 5</div><div class="dt">29 Jun - 13 Jul<br>native</div></div>
-  <div class="ph todo"><div class="nm">Phase 6</div><div class="dt">15 Jul+<br>public</div></div>
+<div class="phase-strip" style="grid-template-columns:repeat(6,1fr)">
+  <div class="ph active"><div class="nm">External clocks</div><div class="dt">2-3 Jul<br>AWS · Play · MEDICYS</div></div>
+  <div class="ph active"><div class="nm">OAuth + mobile</div><div class="dt">4-6 Jul<br>chain + rebuild</div></div>
+  <div class="ph todo"><div class="nm">Pre-freeze</div><div class="dt">7 Jul<br>DPAs · hardening</div></div>
+  <div class="ph todo"><div class="nm">Code freeze</div><div class="dt">Wed 8 Jul<br>#T144</div></div>
+  <div class="ph todo"><div class="nm">GO/NO-GO</div><div class="dt">Fri 10 Jul<br>#T143 · docs/16 §D4</div></div>
+  <div class="ph todo"><div class="nm">PUBLIC LAUNCH</div><div class="dt">Wed 15 Jul<br>web + iOS + Android*</div></div>
 </div>
 
 <div class="charts">
@@ -226,8 +264,8 @@ new Chart(document.getElementById('c2'),{{type:'doughnut',data:{{labels:['MH (Dr
 </script></body></html>'''
 
 if __name__ == '__main__':
-    items = parse()
-    out = render(items)
+    items, replans = parse()
+    out = render(items, replans)
     (REPO / 'dashboard.html').write_text(out)
     (REPO / f'dashboard-{TODAY}.html').write_text(out)
     print(f"Built dashboard.html + dashboard-{TODAY}.html · {len(items)} tasks", file=sys.stderr)
