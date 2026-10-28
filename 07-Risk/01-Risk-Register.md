@@ -32,6 +32,19 @@ Critique : menace sur la validité/intégrité des dossiers ou exposition majeur
 | M5 | Dépendance fournisseur ou personne clé | Moyenne | Moyen | Documentation, suppléance, export et réversibilité testés | Direction + technique | Avant paiement puis trimestriel |
 | M6 | Ancienne documentation B2C/UK ou prix à l'acte encore présentés | Élevée | Moyen | Inventaire et réalignement docs, site, application, contrats et facturation | Produit + commercial | Avant commercialisation |
 
+## Complément — template, comparaison et purge des photographies
+
+| ID | Risque | Priorité | Mesures / preuve attendue | Responsable proposé | Échéance |
+|---|---|---|---|---|---|
+| P1 | Photo de sortie présentée comme photo d'entrée, association à une mauvaise pièce ou template incompatible | Élevée | Identifiants, phase/provenance, version du template et test de comparaison ; absence signalée sans image inventée | Produit + technique | Avant dossiers réels |
+| P2 | Lien expiré ou photo absente de la version signée/remise | Critique | Images intégrées ou annexe figée liée au signé, test de relecture et de remise complète | Technique + juridique | Avant dossiers réels |
+| P3 | Purge à 30 jours détruisant une preuve d'entrée avant sortie | Critique | Exclusion des photos retenues, calendrier validé et tests sur bail actif, sortie et gel contentieux | Données + technique | Avant dossiers réels |
+| P4 | Photos supprimées du stockage mais restant dans PDF, miniatures ou prestataires ; annonce d'effacement erronée | Élevée | Inventaire des copies, purge de bout en bout, distinction production/sauvegardes et contrôle des confirmations | Technique + données | Avant dossiers réels |
+| P5 | Conservation illimitée faute de date de fin ou restauration de photos purgées | Élevée | Échéances, alertes, revue des exceptions et rejeu des suppressions après restauration | Données + technique | Avant dossiers réels |
+
+Le template est décrit dans [Legal Compliance](../05-Legal-Compliance/05-Template-Etat-des-Lieux-Photos.md) ; les délais de purge proposés figurent à la section 6 de l'annexe RGPD et restent à valider avant collecte.
+
+
 ## Suivi des actions
 
 Pour chaque risque, consigner dans le suivi d'équipe : responsable nominatif, échéance datée, contrôle testé, preuve, résultat, risque résiduel et décision d'acceptation. Le responsable juridique pilote les risques juridiques ; la direction accepte le risque résiduel commercial et opérationnel avec les responsables concernés.
