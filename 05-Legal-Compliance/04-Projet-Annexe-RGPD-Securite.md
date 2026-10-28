@@ -79,11 +79,11 @@ Les délais ci-dessous sont des propositions opérationnelles à valider juridiq
 | Photos rejetées, floues, doublons et non retenues | Purge sous 30 jours après signature/clôture du dossier | Vérifier qu'elles ne sont ni annexées ni nécessaires à une réserve ou un litige ; la clôture d'entrée ne supprime jamais les photos retenues pour la comparaison de sortie |
 | Brouillons abandonnés, non signés | Alerte après 60 jours sans activité ; purge à 90 jours sans activité | Agence avertie, report motivé et borné ; un refus de signature/litige ne vaut pas abandon |
 | Copies de traitement IA, conversion et caches de travail | Suppression à la fin du traitement, cible maximale 7 jours | Valider les contraintes des fournisseurs ; distinguer des journaux de sécurité et des pièces probatoires |
-| Images retenues dans les états des lieux, originaux nécessaires et preuve | Usage actif pendant le bail ; proposition d'archivage intermédiaire restreint pendant 3 ans à compter de la fin du bail | Point de départ et durée à valider selon droits concernés, connaissance des faits, interruptions/suspensions et autres recours ; aucune purge automatique fondée sur cette seule hypothèse sans validation |
+| Images retenues dans les états des lieux, originaux nécessaires et preuve | Usage actif pendant la location et jusqu'à clôture des comptes ; proposition de 5 ans d'archivage intermédiaire après clôture en gestion déléguée ; 3 ou 5 ans selon mission en gestion directe/semi-déléguée | Justifier la durée au regard du mandat et des droits concernés ; voir les paramètres détaillés ; pas de purge automatique sans calendrier validé |
 | Copies de sauvegarde des données supprimées | Expiration selon cycle technique documenté, cible maximale 90 jours après suppression en production | Pas d'accès courant ; rejouer les suppressions avant remise en service après restauration |
 | Pièces faisant l'objet d'un gel pour litige | Conservation ciblée jusqu'à décision documentée de levée du gel, puis réapplication du calendrier | Revue au moins semestrielle ; pas de prolongation indéfinie de tout le dossier |
 
-Le délai de trois ans des actions dérivant du bail prévu à l'article 7-1 court à partir de la connaissance des faits ; il ne constitue donc pas une obligation générale de conservation de trois ans après départ. L'hypothèse proposée doit être adaptée et validée. La fin de l'abonnement n'autorise pas Tenu à garder tous les dossiers pour cette durée : la restitution/suppression de l'article 28 s'applique, sauf instruction contractuelle de conservation justifiée ou obligation légale propre.
+Le délai de trois ans des actions dérivant du bail prévu à l'article 7-1 court à partir de la connaissance des faits ; il ne constitue donc pas une obligation générale de conservation de trois ans après départ. Le référentiel CNIL de gestion locative distingue notamment la gestion déléguée et prévoit des repères allant jusqu'à cinq ans en archivage intermédiaire. Le régime et la clôture des comptes doivent être documentés ; ces repères ne justifient pas la conservation systématique de toutes les photos. La fin de l'abonnement n'autorise pas Tenu à garder tous les dossiers pour cette durée : la restitution/suppression de l'article 28 s'applique, sauf instruction contractuelle de conservation justifiée ou obligation légale propre.
 
 ### 6.2 Procédure de purge et contrôle
 
@@ -103,6 +103,10 @@ Les copies déjà remises aux bailleurs, locataires ou exportées par l'agence n
 - [CNIL — sauvegardes](https://www.cnil.fr/fr/securite-sauvegarder).
 - [Loi du 6 juillet 1989, article 7-1](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/) : prescription des actions dérivant du bail, à distinguer d'une durée de conservation.
 
+
+### 6.4 Complément de paramétrage
+
+Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md), section 1, précisent les instructions proposées : logs courants 6 mois, dates et alertes, maintien des pièces d'entrée pour la sortie, archivage restreint, fin d'abonnement et contrôle des sauvegardes. Cette proposition corrige l'hypothèse initiale uniforme de trois ans après fin du bail. Les délais restent soumis à validation et information des personnes avant collecte. Les paramètres de service et de signature du même document doivent être validés avant tout engagement chiffré.
 
 ## 7. Éléments à signer
 
