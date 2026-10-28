@@ -70,6 +70,40 @@ Aucune durée légale unique n'est postulée pour toutes ces catégories. Ne pas
 
 Proposition de sortie : 90 jours de lecture/export inclus, puis restitution/suppression selon instruction et calendrier validé, avec attestation sur demande. Toute conservation obligatoire est isolée, motivée et limitée. Le calendrier couvre les prestataires et les sauvegardes.
 
+### 6.1 Politique proposée pour les photographies
+
+Les délais ci-dessous sont des propositions opérationnelles à valider juridiquement et techniquement avec l'agence avant collecte ; ils ne sont pas présentés comme des durées légales obligatoires. Une fois validés, ils sont inscrits dans les instructions et l'information des participants.
+
+| Catégorie | Durée/événement proposé | Garde-fou |
+|---|---|---|
+| Photos rejetées, floues, doublons et non retenues | Purge sous 30 jours après signature/clôture du dossier | Vérifier qu'elles ne sont ni annexées ni nécessaires à une réserve ou un litige ; la clôture d'entrée ne supprime jamais les photos retenues pour la comparaison de sortie |
+| Brouillons abandonnés, non signés | Alerte après 60 jours sans activité ; purge à 90 jours sans activité | Agence avertie, report motivé et borné ; un refus de signature/litige ne vaut pas abandon |
+| Copies de traitement IA, conversion et caches de travail | Suppression à la fin du traitement, cible maximale 7 jours | Valider les contraintes des fournisseurs ; distinguer des journaux de sécurité et des pièces probatoires |
+| Images retenues dans les états des lieux, originaux nécessaires et preuve | Usage actif pendant le bail ; proposition d'archivage intermédiaire restreint pendant 3 ans à compter de la fin du bail | Point de départ et durée à valider selon droits concernés, connaissance des faits, interruptions/suspensions et autres recours ; aucune purge automatique fondée sur cette seule hypothèse sans validation |
+| Copies de sauvegarde des données supprimées | Expiration selon cycle technique documenté, cible maximale 90 jours après suppression en production | Pas d'accès courant ; rejouer les suppressions avant remise en service après restauration |
+| Pièces faisant l'objet d'un gel pour litige | Conservation ciblée jusqu'à décision documentée de levée du gel, puis réapplication du calendrier | Revue au moins semestrielle ; pas de prolongation indéfinie de tout le dossier |
+
+Le délai de trois ans des actions dérivant du bail prévu à l'article 7-1 court à partir de la connaissance des faits ; il ne constitue donc pas une obligation générale de conservation de trois ans après départ. L'hypothèse proposée doit être adaptée et validée. La fin de l'abonnement n'autorise pas Tenu à garder tous les dossiers pour cette durée : la restitution/suppression de l'article 28 s'applique, sauf instruction contractuelle de conservation justifiée ou obligation légale propre.
+
+### 6.2 Procédure de purge et contrôle
+
+1. Identifier le dossier, la phase entrée/sortie, la catégorie, les supports, la date de départ et l'échéance ; référencer les images utilisées dans un document signé.
+2. Vérifier l'instruction, les droits des personnes, les besoins de comparaison, les contentieux et tout gel en cours. Aucun effacement automatique d'une annexe signée du seul fait de la génération du PDF.
+3. Avertir l'agence avant purge définitive d'un dossier probatoire ou abandonné et permettre l'export dans les délais convenus. Le silence ne crée pas un nouveau motif de conservation illimitée.
+4. Purger bases, objets et versions de stockage, miniatures, caches, index, appareils gérés et prestataires concernés ; révoquer les liens. Les obligations de suppression des copies sur appareils de l'agence sont précisées avec elle.
+5. Pour une image intégrée au PDF signé, appliquer la décision au document et au dossier complet selon le calendrier : ne pas retirer silencieusement l'image d'un exemplaire signé. Une rectification se fait par complément traçable.
+6. Consigner les identifiants minimaux des objets supprimés, la règle appliquée, date, opérateur/job, statut et exceptions sans dupliquer les photos dans les logs. Fixer séparément la durée de ces logs.
+7. Suivre les échecs, obtenir les confirmations utiles des prestataires et vérifier l'expiration des sauvegardes. Distinguer suppression en production et effacement complet ; ne pas certifier le second prématurément.
+
+Les copies déjà remises aux bailleurs, locataires ou exportées par l'agence ne sont pas effaçables à distance par Tenu ; leurs détenteurs restent soumis aux obligations qui leur sont applicables.
+
+### 6.3 Sources de la politique
+
+- [CNIL — durées de conservation](https://www.cnil.fr/fr/passer-laction/les-durees-de-conservation-des-donnees) : finalité, conservation active et archivage restreint.
+- [CNIL — sauvegardes](https://www.cnil.fr/fr/securite-sauvegarder).
+- [Loi du 6 juillet 1989, article 7-1](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/) : prescription des actions dérivant du bail, à distinguer d'une durée de conservation.
+
+
 ## 7. Éléments à signer
 
 Annexer les identités et contacts, instructions, tableau des traitements, durées, liste réelle des prestataires/transferts, mesures techniques vérifiées, procédure incident, modalités d'audit et formats d'export.
