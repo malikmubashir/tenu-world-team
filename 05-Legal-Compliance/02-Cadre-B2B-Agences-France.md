@@ -103,7 +103,15 @@ L'agence peut exporter ses dossiers pendant le contrat. À la fin : proposition 
 
 La fenêtre d'export n'est pas une durée légale de conservation. Fixer séparément le calendrier des dossiers signés, des brouillons, des journaux et des sauvegardes, avec gestion des contentieux. Ne pas garantir un archivage probatoire certifié sans dispositif vérifié. Prévoir export des PDF signés, annexes, originaux utiles et dossier de preuve dans des formats exploitables, puis restitution ou suppression selon les instructions et obligations applicables.
 
-## 10. Arbitrages restant ouverts
+## 10. Paramètres proposés et arbitrages restant ouverts
+
+Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md) complètent les quatre sujets :
+- conservation : calendrier par catégorie, archivage proposé de cinq ans après clôture des comptes en gestion déléguée, adaptation selon mandat ;
+- signature : niveau avancé cible, validation de l'identité, consentement, lien aux photos et preuve de remise ; prestataire À confirmer ;
+- service : disponibilité cible 99,5 %, assistance ouvrée, mesure et incidents, RPO/RTO et recours proposés à valider techniquement ;
+- assurance : risques déclarés, garanties et clause proposées ; assureur, couverture et plafond de responsabilité À confirmer.
+
+Ces propositions complètent le cadre sans certifier leur mise en œuvre ni rendre les objectifs techniques contractuels avant acceptation. Le calendrier de la section 1 du complément précise la section 6.1 de l'annexe RGPD.
 
 | Élément | Responsable proposé |
 |---|---|
