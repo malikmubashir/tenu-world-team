@@ -53,6 +53,16 @@ Documents : [cadre](02-Cadre-B2B-Agences-France.md), [conditions proposées](03-
 - [ ] Marketing : supprimer les promesses d'objectivité absolue, d'absence de litige ou de résultat garanti.
 - [ ] Équipe : réaligner stratégie, produit, finances, marketing et parcours applicatifs encore fondés sur le B2C/UK.
 
+## Finalisation des quatre volets
+
+Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md) proposent les modalités à finaliser.
+- [ ] Juridique/agence : qualifier la mission de gestion, fixer la durée et le point de départ d'archivage après clôture des comptes, valider les délais des autres catégories.
+- [ ] Produit/technique : sélectionner le prestataire de signature (À confirmer), vérifier le niveau de l'offre exacte et réaliser la recette du parcours complet.
+- [ ] Technique/direction : accepter ou ajuster les objectifs 99,5 %, support ouvré, RPO/RTO, mesure, maintenance et recours ; démontrer les capacités avant contrat.
+- [ ] Direction/courtier : confirmer assureur/police, déclaration SaaS/IA/signature et données, couverture du pilote et garanties/plafonds/franchises.
+- [ ] Juridique : finaliser le plafond de responsabilité et les clauses d'assurance après réponses du courtier.
+- [ ] Juridique : identifier nominativement les validateurs et consigner décisions, date et preuves ; aucune case n'est close par la seule rédaction.
+
 ## Contrôles récurrents
 
 | Contrôle | Fréquence proposée | Responsable |
