@@ -29,6 +29,17 @@ Documents : [cadre](02-Cadre-B2B-Agences-France.md), [conditions proposées](03-
 - [ ] Juridique/produit : documenter la qualification AI Act et les obligations applicables à la destination réelle.
 - [ ] Direction : confirmer assurance adaptée au SaaS, à l'IA et aux preuves locatives.
 
+### Contrôles spécifiques au template et aux photos
+
+- [ ] Produit/juridique : valider le [template commun](05-Template-Etat-des-Lieux-Photos.md), ses versions et les mentions obligatoires.
+- [ ] Produit : rattacher chaque photo à la phase, pièce et élément ; comparer entrée/sortie sans altérer le document d'entrée.
+- [ ] Technique : intégrer les photos retenues au PDF ou aux annexes figées liées à la signature ; vérifier relecture et remise des images aux parties sans dépendre de liens expirants.
+- [ ] Données/juridique : valider les délais proposés section 6 de l'annexe RGPD et les communiquer avant collecte.
+- [ ] Technique : tester la purge des non-retenues, brouillons, caches, versions d'objets et copies prestataires, ainsi que les appareils gérés.
+- [ ] Technique/juridique : tester qu'un gel contentieux bloque uniquement les purges concernées ; ne pas supprimer une photo probatoire d'entrée avant comparaison de sortie.
+- [ ] Technique : tester la non-réapparition après restauration et tracer les purges/échecs sans conserver une copie des images.
+- [ ] Juridique : préciser le sort des photos incluses dans les PDF signés et les limites de suppression des exemplaires remis/exportés.
+
 ## Avant abonnement payant
 
 - [ ] Commercial : fixer tarifs HT/TVA, utilisateurs, volumes, reports, dépassements et coût des signatures.
