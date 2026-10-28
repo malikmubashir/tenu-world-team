@@ -27,6 +27,10 @@ L'annexe de traitement fixe les catégories de photographies, leur durée et év
 
 L'agence informe les participants des prises de vue et de leur utilisation, limite les prises au nécessaire et évite les personnes et documents privés. Tenu exécute les instructions documentées de conservation et de suppression dans le cadre de l'annexe ; une demande d'effacement visant un document signé est examinée avant toute action portant atteinte à son intégrité.
 
+### Signature et conservation : paramètres de la proposition
+
+Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md), sections 1 et 2, complètent le parcours et la conservation. Niveau avancé eIDAS recommandé comme cible à vérifier ; prestataire et offre À confirmer. La signature inclut les annexes photographiques et un dossier de preuve exportable. Aucun label « avancé » ou « qualifié » n'est déduit du seul OTP ou dessin de signature. La durée d'archivage dépend du mandat et de la clôture des comptes, et la fin d'abonnement reste soumise à la restitution/suppression de l'annexe RGPD.
+
 ## 3. Pilote
 
 Le pilote dure 30 jours à compter de [événement de démarrage À compléter]. Il comprend [utilisateurs, dossiers, assistance et prix éventuel À compléter]. Il n'emporte aucune obligation de poursuivre. L'offre payante nécessite une acceptation explicite du bon de commande ; aucun prélèvement ne résulte de la seule fin du pilote.
@@ -51,7 +55,7 @@ Les pénalités de retard et l'indemnité forfaitaire de recouvrement applicable
 
 ## 6. Service, sécurité et évolution
 
-Les engagements d'assistance, plages horaires, disponibilité, maintenance, sauvegarde, reprise et restauration figurent dans une annexe validée techniquement. Aucun niveau de service chiffré n'est réputé acquis dans ce projet.
+Les engagements d'assistance, plages horaires, disponibilité, maintenance, sauvegarde, reprise et restauration sont proposés à la section 3 des [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md) : disponibilité 99,5 %, support ouvré, objectifs de traitement d'incidents, RPO d'une heure et RTO d'un jour ouvré. Ils restent des cibles à valider par l'équipe technique et à accepter dans le contrat, et non des capacités déjà démontrées. Les formules de mesure, exclusions limitées, avoirs et faculté de sortie sont précisés dans cette annexe proposée.
 
 Tenu informe l'agence des évolutions substantielles. Les modifications ne doivent pas supprimer les fonctions essentielles convenues pendant l'engagement initial sans solution contractuelle adaptée. Les documents signés ne sont pas modifiés par une mise à jour du modèle IA.
 
@@ -79,7 +83,7 @@ L'export comprend les états des lieux signés, annexes, photos utiles, référe
 
 Chaque partie répond des manquements à ses obligations et des dommages qui lui sont imputables selon le droit applicable. Les erreurs IA, défauts de sécurité ou pertes de données ne font l'objet d'aucune exonération générale dans ce projet.
 
-Le plafond, les exclusions admissibles, exceptions et garanties d'assurance sont À compléter après analyse des risques et confirmation de l'assureur. La version définitive ne doit pas priver une obligation essentielle de sa substance ni exclure une responsabilité dont l'exclusion est interdite.
+Les garanties à demander, les objectifs de consultation et une clause d'assurance sont rédigés à la section 4 des [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md). Assureur, police, couverture effective, plafonds, franchises et exclusions : À confirmer. La clause de maintien d'assurance ne sera utilisée qu'après souscription effective. Le plafond de responsabilité reste à fixer après analyse juridique et assurantielle ; il ne se confond pas avec le plafond d'assurance. La version définitive ne doit pas priver une obligation essentielle de sa substance ni exclure une responsabilité dont l'exclusion est interdite.
 
 ## 11. Droit et litiges
 
