@@ -17,6 +17,16 @@ Le logiciel aide à établir des états des lieux destinés à être signés par
 
 L'agence vérifie ses mandats, la qualité des participants, les observations, les réserves et le document final. Elle organise la lecture et la validation contradictoires. Le service permet la remise du document à chaque partie au moment de la signature et la traçabilité des compléments. Ces obligations de l'agence ne dégagent pas Tenu de ses engagements propres.
 
+### Modèle de rapport et photographies
+
+Les états des lieux d'entrée et de sortie sont établis sur un template structuré, versionné et compatible pour la comparaison. Ils intègrent notamment les photographies prises à chaque étape, sélectionnées et rattachées aux pièces/éléments par les utilisateurs autorisés. La sortie rapproche les images d'entrée conservées et les nouvelles images de sortie ; elle ne modifie pas l'état des lieux d'entrée signé.
+
+Les photographies sélectionnées font partie du document ou d'une annexe identifiée et liée à sa version signée, accessible pour relecture avant signature et remise aux parties avec le document. Les propositions de l'IA ne remplacent pas les images originales ni les réserves des parties.
+
+L'annexe de traitement fixe les catégories de photographies, leur durée et événement de départ, leur restitution, leur purge et les exceptions documentées pour contentieux. Tenu n'applique pas une purge uniforme à 30 jours aux photographies liées aux états des lieux signés. La fin de l'abonnement et la fenêtre d'export ne déterminent pas à elles seules leur durée probatoire.
+
+L'agence informe les participants des prises de vue et de leur utilisation, limite les prises au nécessaire et évite les personnes et documents privés. Tenu exécute les instructions documentées de conservation et de suppression dans le cadre de l'annexe ; une demande d'effacement visant un document signé est examinée avant toute action portant atteinte à son intégrité.
+
 ## 3. Pilote
 
 Le pilote dure 30 jours à compter de [événement de démarrage À compléter]. Il comprend [utilisateurs, dossiers, assistance et prix éventuel À compléter]. Il n'emporte aucune obligation de poursuivre. L'offre payante nécessite une acceptation explicite du bon de commande ; aucun prélèvement ne résulte de la seule fin du pilote.
