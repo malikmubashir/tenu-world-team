@@ -57,6 +57,18 @@ Le locataire peut demander de compléter l'état des lieux d'entrée dans les di
 
 Une signature dessinée et un horodatage technique ne suffisent pas, à eux seuls, à démontrer toutes les exigences de preuve. Le prestataire, le niveau de signature, l'identification et le dossier de preuve sont À sélectionner et à valider au regard des articles 1366 et 1367 du Code civil et du règlement eIDAS.
 
+### Modèle commun et photographies d'entrée/sortie
+
+Chaque état des lieux est rédigé à partir d'un template structuré et versionné, intégrant notamment les photos prises à l'entrée et à la sortie. L'état des lieux d'entrée reste un document autonome signé ; à la sortie, le même modèle ou une structure compatible rapproche les constats et photos des deux dates, sans réécrire l'entrée ni laisser entendre que des photos de sortie existaient à l'entrée.
+
+Le template comprend une fiche d'identité du dossier, les mentions réglementaires, une description par pièce/élément, les photographies correspondantes, les observations et réserves, les signatures et un inventaire des annexes. Voir le [modèle documentaire](05-Template-Etat-des-Lieux-Photos.md).
+
+Chaque photographie retenue comporte un identifiant stable, sa phase (entrée/sortie), la pièce et l'élément, sa provenance et les dates disponibles en distinguant prise de vue déclarée et réception serveur. Une date technique ne prouve pas seule la réalité de la capture. L'absence d'image comparable ou un angle différent est signalé ; aucune image manquante n'est générée pour combler un constat.
+
+Les images figurent dans le fichier final ou dans une annexe figée précisément identifiée et liée au dossier signé. Un simple lien temporaire ne constitue pas une remise durable de l'annexe. Toute retouche, occultation ou compression significative est tracée ; les originaux nécessaires à la preuve sont conservés séparément. Les personnes voient les images retenues avant de signer.
+
+La purge distingue les images non retenues, les copies temporaires et les pièces liées au signé. La suppression d'une image dans le stockage ne supprime pas son inclusion dans un PDF : le calendrier doit couvrir tous les supports. Les modalités détaillées figurent à la section 6 de l'annexe RGPD.
+
 ## 5. IA et prévention des litiges
 
 L'IA ne décide pas seule de l'imputabilité d'une dégradation, d'une retenue ou d'une responsabilité. La comparaison ne confond pas usure normale, vétusté et dommage imputable. Tout chiffrage éventuel exige un périmètre validé et des justificatifs distincts.
