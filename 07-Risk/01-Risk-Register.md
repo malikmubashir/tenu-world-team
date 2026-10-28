@@ -1,147 +1,48 @@
-# Tenu — Risk Register
+# Tenu — Registre des risques B2B France
 
-**Version:** 1.0  
-**Date:** 2026-04-02  
-**Review schedule:** Monthly
+Version 2.0 — 28 octobre 2026  
+Revue mensuelle ; prochaine revue proposée : 28 novembre 2026.  
+Périmètre : agences immobilières en France, états des lieux signés assistés par IA, pilote 30 jours puis engagement 12 mois facturé mensuellement et poursuite mensuelle avec préavis de 30 jours.
 
----
+Les évaluations ci-dessous sont initiales et qualitatives ; risques résiduels à réévaluer après preuve des contrôles. Les responsables sont des rôles proposés, à attribuer nominativement. Aucune action n'est considérée achevée.
 
-## Summary
+## Critères
 
-| Severity | Count | Action |
-|---|---|---|
-| Critical | 3 | Resolve before accepting any payment |
-| High | 5 | Resolve within 60 days of launch |
-| Medium | 6 | Monitor monthly, mitigate progressively |
-| Low | 4 | Accept with standard controls |
+Critique : menace sur la validité/intégrité des dossiers ou exposition majeure ; traitement avant dossiers réels. Élevé : risque substantiel contractuel, opérationnel ou commercial ; traitement avant paiement ou étape précisée. Moyen : suivi avec plan daté. Probabilité estimée et impact doivent être confirmés sur l'architecture effective.
 
----
+## Risques et traitement
 
-## Critical Risks
+| ID | Risque / conséquence | Probabilité | Impact / priorité | Contrôles attendus | Responsable proposé | Échéance |
+|---|---|---|---|---|---|---|
+| C1 | État des lieux incomplet, non contradictoire ou mal signé ; preuve contestée | Moyenne | Majeur / critique | Mentions légales, mandats, lecture complète, réserves, identification, signature et preuve d'intégrité | Juridique + produit | Avant dossiers réels |
+| C2 | Dossier d'une agence accessible à une autre ; fuite de photos/données | Moyenne | Majeur / critique | Tests d'isolation, rôles, stockage privé, contrôle liens et exports, incidents | Technique + données | Avant dossiers réels |
+| C3 | Perte/altération des originaux, annexes ou preuves ; remise absente | Moyenne | Majeur / critique | Version signée figée, preuve de remise à chacun, sauvegardes/restauration et export testés | Technique | Avant dossiers réels |
+| H1 | IA invente un défaut ou confond vétusté et dommage ; retenue injustifiée | Élevée | Élevé | Vérification humaine obligatoire, distinction suggestion/constat, corrections tracées ; pas de décision automatique de retenue | Produit + juridique | Avant dossiers réels |
+| H2 | Traduction trompeuse pour un expatrié ; consentement contesté | Moyenne | Élevé | Statut des traductions, relecture, réserves et compréhension avant signature | Produit | Avant dossiers réels |
+| H3 | Qualification RGPD erronée, prestataires/transferts non maîtrisés | Moyenne | Élevé | Cartographie effective, article 28, bases et information, contrôle des API IA et transferts | Données + juridique | Avant dossiers réels |
+| H4 | Suppression trop précoce ou conservation excessive | Moyenne | Élevé | Calendrier par catégorie, analyse probatoire, gel contentieux ciblé et purge vérifiée | Juridique + technique | Avant dossiers réels |
+| H5 | Panne sur place ou signature/remise en échec | Moyenne | Élevé | Procédure de secours, absence de signature simulée, reprise contrôlée, alertes et assistance | Technique + opérations | Avant dossiers réels |
+| H6 | Clauses annuelles, quotas ou dépassements mal compris ; contestation commerciale | Moyenne | Élevé | Bon de commande explicite, prix initial fixe, acceptation payante, préavis et simulations de résiliation | Commercial + juridique | Avant paiement |
+| H7 | RC Pro inadaptée ou responsabilité contractuelle non assurée | Moyenne | Élevé | Confirmation écrite de couverture et régime de responsabilité validé | Direction + juridique | Avant dossiers réels |
+| H8 | Réutilisation des dossiers par fournisseur IA ou finalité non autorisée | Moyenne | Élevé | Conditions fournisseur, configuration, minimisation et interdiction d'entraînement dans le périmètre sous-traité | Données + technique | Avant dossiers réels |
+| M1 | Faible adoption agence ou coût IA/signature supérieur à la marge | Moyenne | Moyen | Pilote limité, métriques de conversion, usage, coût par dossier et renouvellement | Commercial + finance | Avant fixation des prix puis mensuel |
+| M2 | Engagement commercial au-delà des capacités réelles | Moyenne | Élevé | Validation technique des SLA, archivage et exports ; pas de conformité/certification non démontrée | Direction + technique | Avant paiement |
+| M3 | Confusion agence cliente / accord du locataire | Moyenne | Élevé | Séparer paiement et consentement, préserver observations contradictoires et accès aux exemplaires | Produit + juridique | Avant dossiers réels |
+| M4 | Évolution réglementaire ou destination IA mal qualifiée | Moyenne | Élevé | Analyse AI Act documentée, veille, exclusion des usages non validés | Juridique + produit | Avant dossiers réels puis trimestriel |
+| M5 | Dépendance fournisseur ou personne clé | Moyenne | Moyen | Documentation, suppléance, export et réversibilité testés | Direction + technique | Avant paiement puis trimestriel |
+| M6 | Ancienne documentation B2C/UK ou prix à l'acte encore présentés | Élevée | Moyen | Inventaire et réalignement docs, site, application, contrats et facturation | Produit + commercial | Avant commercialisation |
 
-### C1 — Legal liability: AI generates incorrect legal advice
-**Probability:** High | **Impact:** Fatal  
-**Category:** Legal / Regulatory
+## Suivi des actions
 
-The dispute letters cite French rental law and UK deposit scheme rules. If Claude produces an incorrect legal argument and a tenant relies on it and loses their case, Tenu faces civil liability in France (monopole des avocats, loi du 31 décembre 1971) and potential violation of the Legal Services Act 2007 in the UK. A single viral negative post in a Chinese or Arabic student community is reputationally fatal and irreversible.
+Pour chaque risque, consigner dans le suivi d'équipe : responsable nominatif, échéance datée, contrôle testé, preuve, résultat, risque résiduel et décision d'acceptation. Le responsable juridique pilote les risques juridiques ; la direction accepte le risque résiduel commercial et opérationnel avec les responsables concernés.
 
-**Mitigations:**
-- [ ] Engage FR avocat (droit locatif) before launch — budget €500–1,000
-- [ ] Engage UK solicitor before launch — budget £400–800
-- [ ] Add legally reviewed disclaimer to every report output
-- [ ] Remove all success rate / outcome claims from product copy
-- [ ] Add mandatory "I understand this is guidance not legal advice" checkbox pre-delivery
-- [ ] Pre-write static rights content — never AI-generate the 10 core rights facts
+Les risques critiques ne sont pas clos par la seule rédaction d'une clause ou d'un avertissement IA.
 
-**Owner:** Founder | **Deadline:** Before first payment
+## Références
 
----
+- [Cadre juridique et commercial](../05-Legal-Compliance/02-Cadre-B2B-Agences-France.md)
+- [Checklist de lancement](../05-Legal-Compliance/01-Legal-Checklist.md)
+- [Conditions d'abonnement proposées](../05-Legal-Compliance/03-Projet-Conditions-Abonnement-B2B.md)
+- [Annexe RGPD et sécurité](../05-Legal-Compliance/04-Projet-Annexe-RGPD-Securite.md)
 
-### C2 — GDPR breach: tenant home photos exposed
-**Probability:** Medium | **Impact:** Fatal  
-**Category:** Data Protection
-
-Home interior photos are sensitive personal data under GDPR Art. 4. A breach would be reportable to CNIL (France) and ICO (UK). Fines: up to 4% of turnover or €20M. Make.com is a US company — data transfer compliance must be verified explicitly.
-
-**Mitigations:**
-- [ ] Cloudflare R2: EU region, never public, signed URLs 1-hour expiry
-- [ ] Sign Make.com EU Data Processing Addendum before go-live
-- [ ] No photo URLs stored in Airtable — metadata only
-- [ ] 30-day photo deletion after PDF generation
-- [ ] GDPR consent checkbox in Tally form before any photo upload
-- [ ] Iubenda privacy policy covering FR + UK
-
-**Owner:** Founder | **Deadline:** Before first payment
-
----
-
-### C3 — No product-market fit: users do not pay €15
-**Probability:** Medium | **Impact:** Fatal  
-**Category:** Business / Commercial
-
-Every financial projection rests on an unvalidated hypothesis. The waitlist test (Week 1) is the primary validation action.
-
-**Mitigations:**
-- [ ] Waitlist test in Chinese student group before building (target 20 signups / 48h)
-- [ ] Offer first 5 users free report in exchange for recorded feedback call
-- [ ] Consider no-photo checklist-only plan at lower price to reduce trust barrier
-
-**Owner:** Founder | **Deadline:** Week 1
-
----
-
-## High Risks
-
-### H1 — Competitor copies multilingual model
-**Probability:** High | **Impact:** High | **Timeline:** 12–18 months
-
-Deposit Guard or BailFacile adds multilingual + AI features.
-
-**Mitigations:** Move fast. Build outcome data. Community distribution relationships. Approach TDS/mydeposits as white-label partner.
-
----
-
-### H2 — AI translation errors in non-Latin scripts
-**Probability:** High | **Impact:** High | **Timeline:** Ongoing
-
-Claude Haiku more prone to hallucination in AR, ZH, JA, HI, UR.
-
-**Mitigations:** Use Sonnet for all user-facing language output. Native speaker review of 4 P1 languages before launch (€200–400). Pre-write static rights content. "Report error" button in every report.
-
----
-
-### H3 — Make.com failure during user's critical move-out
-**Probability:** Medium | **Impact:** High | **Timeline:** Ongoing
-
-Silent failure → user receives nothing → day-of-inspection emergency → viral negative review.
-
-**Mitigations:** Email alert on every failed scenario run. Manual monitoring for first 50 users. Immediate acknowledgement email on form submission. Weekly Monday pipeline test.
-
----
-
-### H4 — Regulatory ban on AI legal tools in FR or UK
-**Probability:** Low | **Impact:** High | **Timeline:** 12–24 months
-
-EU AI Act, CNB (France), SRA (UK) could restrict AI-generated legal guidance.
-
-**Mitigations:** Pre-launch legal opinion as documented compliance evidence. "Evidence preparation" not "legal advice" framing. Quarterly regulatory scan. Consider licensed legal partner co-signing the framework.
-
----
-
-### H5 — Founder single point of failure
-**Probability:** Medium | **Impact:** High | **Timeline:** Ongoing
-
-Concurrent commitments: Global Apex O365 mission, other external obligations.
-
-**Mitigations:** No-code architecture runs autonomously. Trusted backup for Make.com monitoring. Minimum 2 hours/week hard rule. Product stable before July–September peak window.
-
----
-
-## Medium Risks
-
-| ID | Risk | Probability | Impact | Mitigation |
-|---|---|---|---|---|
-| M1 | Seasonal cashflow Jan–Feb | Medium | Medium | 3-month cash reserve; use Jan–Feb for SEO + partnerships |
-| M2 | Tool dependency (Make, Tally, Placid) | Low | Medium | Monthly JSON exports; test backup tools; replicate all data to Airtable |
-| M3 | User trust barrier: photos on unknown app | High | Medium | Testimonials; trust signals; community distribution; no-photo option |
-| M4 | EUR/GBP currency risk | Low | Medium | Separate Stripe balances; monthly Wise transfer; annual review |
-| M5 | Deposit schemes build product themselves | Low | High | Approach as white-label partner proactively in months 4–6 |
-| M6 | International student numbers decline | Low | Medium | Domestic tenants (13M FR, 11M UK) are fallback TAM |
-
----
-
-## Monitoring Schedule
-
-| Action | Frequency | Owner |
-|---|---|---|
-| Make.com pipeline test (€0.01 Stripe charge) | Weekly — Monday | Founder |
-| Competitor scan (Deposit Guard, BailFacile) | Monthly | Founder |
-| Airtable outcome data review | Monthly | Founder |
-| EU AI Act / CNB / SRA regulatory scan | Quarterly | Founder |
-| Risk register full review | Monthly | Founder |
-| Legal disclaimer review with avocat | 6-monthly | Founder + avocat |
-
----
-
-*Last updated: 2026-04-02  
-Next review: 2026-05-02*
+Ce registre remplace l'évaluation du 2 avril 2026 centrée sur la vente directe aux locataires en France/Royaume-Uni. Les anciens décomptes de risques et dates de lancement ne sont plus utilisés.
