@@ -16,6 +16,15 @@ Ce document ne certifie pas l'état technique du service.
 
 ## 1. Qualification et description
 
+Le prestataire Tenu est Global Apex.Net, exploitant de Tenu.World, identifié dans les [conditions d'abonnement](03-Projet-Conditions-Abonnement-B2B.md). Source d'identité et contacts : [CGU publiées v1.1 du 12 juin 2026](https://tenu.world/legal/terms/fr), consultées le 29 octobre 2026. Contact données et droits : dpo@tenu.world ; assistance générale : support@tenu.world.
+
+Pour les dossiers d'états des lieux, la qualité de Global Apex.Net résulte de l'analyse des instructions et finalités ci-dessous. Pour sa gestion commerciale, ses comptes, sa facturation et ses obligations propres, Global Apex.Net agit comme responsable distinct. L'ancienne qualification de responsable figurant sur le site ne doit pas être étendue automatiquement à tous les dossiers traités pour les agences. Les droits des personnes concernent les personnes physiques (locataires, bailleurs, signataires et collaborateurs), pas seulement l'agence personne morale.
+
+Global Apex.Net relaie à l'agence les demandes relatives aux données traitées pour son compte et répond aux demandes relatives à ses propres finalités. Les bases et durées sont précisées par traitement ; la seule existence d'un contrat avec une agence ne suffit pas à justifier tous les traitements de personnes tierces. L'information des participants et l'annexe article 28 doivent être cohérentes.
+
+Les noms de prestataires évoqués dans les anciennes CGU ne constituent pas une liste technique validée. Confirmer entités, contrats et configurations ; aucune fonction de non-entraînement chez un fournisseur n'est présumée activée du seul fait de sa mention sur le site.
+
+
 Hypothèse : l'agence détermine les finalités des dossiers et Tenu agit sur ses instructions comme sous-traitant. Vérifier si l'agence agit elle-même comme sous-traitant d'un bailleur ou si une autre qualification s'impose. Les finalités commerciales propres de Tenu sont décrites dans une information distincte et ne sont pas assimilées aux instructions de l'agence.
 
 Objet : collecte, hébergement, organisation, assistance IA, traduction éventuelle, génération, signature, remise et export des états des lieux. Durée : contrat et phases de restitution/suppression documentées.
