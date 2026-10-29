@@ -24,6 +24,30 @@ Périmètre de référence : locations de logements à usage de résidence princ
 
 Les offres directes aux locataires, le paiement à l'inspection, les commissions de récupération de dépôt et les courriers contentieux autonomes ne font pas partie de cette offre. Leur présence dans d'anciens documents ne vaut pas décision de maintien.
 
+### Entité exploitante et contacts
+
+Les [CGU publiées v1.1 du 12 juin 2026](https://tenu.world/legal/terms/fr), consultées le 29 octobre 2026, identifient Global Apex.Net comme exploitant de Tenu.World : SAS, capital 100 €, RCS Versailles 941 666 067, siège 4 Boulevard du Château, 78280 Guyancourt, France. Tenu.World est le service ; Global Apex.Net est la société cocontractante. Support/réclamations : support@tenu.world ; contact données personnelles : dpo@tenu.world.
+
+Ces éléments sont repris de la page publique, sans vérification indépendante de l'immatriculation. Vérifier leur actualité ; TVA et représentant habilité restent À confirmer. Le contact dpo@tenu.world ne démontre pas à lui seul une désignation formelle d'un DPO.
+
+### Passage des conditions publiées au contrat agences
+
+Le site consulté reste centré sur les locataires France/Royaume-Uni, avec vente à l'acte, usage personnel et mécanismes de consommation. Les adaptations proposées sont :
+- agence cliente professionnelle, collaborateurs et invités distincts ;
+- états des lieux contradictoires signés et abonnement selon les décisions retenues ;
+- suppression de l'interdiction d'usage professionnel dans ce périmètre ;
+- autorisations sur les contenus et droits des tiers précisés ;
+- responsabilité et compétence territoriale réexaminées ;
+- rôles RGPD séparés pour dossiers clients et gestion propre de Global Apex.Net.
+
+Les engagements de conservation, absence d'entraînement et stockage adoptés par le responsable juridique restent ceux de la documentation B2B, même si l'ancien site diffère. Aucun transfert automatique du plafond de responsabilité, du mécanisme de modification par simple poursuite d'usage ou de la suppression à clôture du compte n'est opéré.
+
+Le lien européen ODR figurant sur le site est obsolète : la plateforme a été supprimée en 2025. Ne pas le reprendre. La validation DPO annoncée sur la version publiée ne vaut pas validation de cette refonte B2B.
+
+Avant commercialisation : publier les documents validés, aligner les parcours d'inscription/commande et les autres politiques, recueillir l'acceptation de l'agence et gérer séparément les contrats B2C déjà conclus. Le site n'est pas modifié par ces seuls changements dans Legal Compliance.
+
+Sources complémentaires : [article 48 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410147/), [règlement UE 2024/3228, suppression ODR](https://eur-lex.europa.eu/eli/reg/2024/3228/oj?locale=fr).
+
 ## 2. Architecture contractuelle
 
 1. Bon de commande : identité de l'éditeur et de l'agence, habilitation du signataire, offre, prix HT/TVA, utilisateurs, volumes, dépassements et dates.
@@ -126,7 +150,7 @@ Ces propositions complètent le cadre sans certifier leur mise en œuvre ni rend
 
 | Élément | Responsable proposé |
 |---|---|
-| Entité contractante, SIREN, TVA, coordonnées et représentant | Direction / juridique |
+| Identité Global Apex.Net et contacts repris des CGU publiques : actualité à vérifier ; TVA et représentant à compléter | Direction / juridique |
 | Prix, utilisateurs, quotas, dépassements et pilote | Commercial / direction |
 | Signature, identification et preuve de remise | Produit / technique / juridique |
 | Conservation, contentieux et suppression des sauvegardes | Juridique / protection des données / technique |
