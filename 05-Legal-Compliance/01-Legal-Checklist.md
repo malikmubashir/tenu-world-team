@@ -103,6 +103,16 @@ Voir les [compléments confidentialité et remboursements B2B](07-Confidentialit
 - [ ] Produit : préserver les preuves lors d'une contestation de paiement et corriger la qualification de rétractation de l'ancien parcours si celui-ci est maintenu pour des contrats historiques.
 - [ ] Juridique : harmoniser les textes avant publication, sans étendre la validation de l'ancienne version à cette refonte.
 
+## Contrat avec une agence
+
+Modèle : [contrat Tenu / agence](08-Projet-Contrat-Tenu-Agence.md).
+- [ ] Juridique/direction : vérifier parties et pouvoirs ; compléter tarifs, volumes, dates, paiement et dérogations.
+- [ ] Commercial : faire accepter distinctement l'abonnement annuel payant ; un pilote seul ne vaut pas souscription.
+- [ ] Données/technique : finaliser l'accord article 28 et les engagements opérationnels avant données réelles.
+- [ ] Juridique/assureur : finaliser responsabilité, assurance et justificatifs.
+- [ ] Juridique : supprimer les notes de préparation, variantes et champs ouverts avant signature.
+- [ ] Opérations : joindre des copies figées et identifiées de toutes les annexes et recueillir les deux signatures ; remettre un exemplaire complet à chaque Partie.
+
 ## Contrôles récurrents
 
 | Contrôle | Fréquence proposée | Responsable |
