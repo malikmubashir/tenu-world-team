@@ -95,7 +95,7 @@ Les chiffres ci-dessous sont des **objectifs à soumettre à la validation techn
 | Disponibilité | 99,5 % par mois civil, mesure 24 h/24 |
 | Services mesurés | Authentification, accès dossiers/photos, enregistrement, génération, signature et remise ; une dépendance fournisseur bloquante compte comme indisponibilité |
 | Assistance | Lundi–vendredi, 9 h–18 h, heure de Paris, hors jours fériés français ; pas d'astreinte implicite le soir/week-end |
-| Canal | Portail et adresse de support À confirmer ; ticket horodaté |
+| Canal | support@tenu.world repris des CGU publiques ; portail à confirmer ; ticket horodaté |
 | Maintenance planifiée | Préavis de 48 h, hors plage de support si possible ; maximum 2 h exclues du calcul par mois |
 | Maintenance urgente | Information dès que possible ; comptée dans l'indisponibilité |
 | Suivi | Tableau de disponibilité et rapport d'incident majeur ; méthode de mesure documentée |
@@ -131,6 +131,11 @@ Prévoir une faculté de résiliation sans mensualités futures d'engagement si 
 Export autonome PDF signés, annexes/photos, originaux nécessaires, inventaire et preuves. Lecture/export proposé pendant 90 jours après fin. Avant de promettre ce service : démontrer export complet, restauration, mesure de disponibilité, alertes et couverture de l'assistance. Distinguer archivage intermédiaire de preuve et sauvegarde de reprise.
 
 ## 4. Assurance et responsabilité
+
+Entité à déclarer au courtier : Global Apex.Net, exploitant du service Tenu.World ; identité complète reprise dans les [conditions B2B](03-Projet-Conditions-Abonnement-B2B.md) sur la base des [CGU publiques](https://tenu.world/legal/terms/fr). Vérifier les informations d'immatriculation à jour avant souscription. L'existence des CGU et de leur mention de validation DPO ne constitue ni preuve d'assurance ni attestation de conformité du nouveau produit.
+
+Contact général du service : support@tenu.world ; contact données : dpo@tenu.world. Le premier ne remplace pas le contact d'urgence sécurité à organiser et surveiller.
+
 
 ### 4.1 Risques à présenter au courtier
 
