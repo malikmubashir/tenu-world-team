@@ -44,6 +44,20 @@ L'agence documente ses instructions, sa base légale, l'information des personne
 
 ## 3. Prestataires et transferts
 
+Les [compléments confidentialité et remboursements B2B](07-Confidentialite-Remboursements-B2B.md), section 2, analysent la source confidentialité du dépôt, consultée le 29 octobre 2026. La version déployée n'a pas pu être lue directement. Les déclarations de cette source restent à confirmer techniquement et contractuellement :
+
+| Prestataire mentionné | Fonction / localisation annoncée dans la source | Vérification requise |
+|---|---|---|
+| Supabase | Base/authentification, Francfort | Entité, région et accès support |
+| Cloudflare R2 | Photos/PDF, UE | Chiffrement, région, clés et cycle de purge |
+| Vercel | Hébergement web, Paris | Données des logs et traitements hors région |
+| Brevo | Courriels, France | Entité contractante, données et rétention |
+| Stripe | Paiement, entité européenne annoncée | Rôle par finalité, flux et métadonnées |
+| Anthropic API | Analyse, traitement aux États-Unis | Offre, rétention, absence d'entraînement, DPA et garanties de transfert |
+
+Cette liste déclarative complète la cartographie à établir ; elle ne certifie ni DPA signé, ni résidence intégrale UE, ni certification à jour. La migration IA évoquée dans la source est un projet, pas un déploiement constaté. La résidence UE des photos ne suffit pas à qualifier le lieu d'inférence. Ne pas promettre de zéro rétention sans engagement prouvé.
+
+
 Autorisation générale proposée des sous-traitants ultérieurs inscrits dans une liste acceptée. Chaque ligne précise : entité juridique, fonction, données, lieux de stockage et d'accès, durée, garanties et mécanisme de transfert le cas échéant.
 
 Liste réelle À compléter : hébergeur/base de données, stockage photo, fournisseur IA, signature, messagerie, support et sauvegardes. Les anciennes listes Make/Tally/Airtable ne sont pas une cartographie vérifiée de l'architecture actuelle.
@@ -128,6 +142,12 @@ Les copies déjà remises aux bailleurs, locataires ou exportées par l'agence n
 ### 6.4 Complément de paramétrage
 
 Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md), section 1, précisent les instructions proposées : logs courants 6 mois, dates et alertes, maintien des pièces d'entrée pour la sortie, archivage restreint, fin d'abonnement et contrôle des sauvegardes. Cette proposition corrige l'hypothèse initiale uniforme de trois ans après fin du bail. Les délais restent soumis à validation et information des personnes avant collecte. Les paramètres de service et de signature du même document doivent être validés avant tout engagement chiffré.
+
+### 6.5 Information, droits et cohérence avec la politique publique
+
+Les [compléments confidentialité et remboursements B2B](07-Confidentialite-Remboursements-B2B.md), section 2, précisent les points à reprendre dans l'information des participants : rôles séparés, absence de consentement universel, données potentiellement sensibles dans les photos, droits applicables, identité proportionnée, cookies et notification des violations selon le risque.
+
+L'ancien délai de 24 mois de la source confidentialité ne remplace pas les décisions validées ici : fichiers photo séparés purgés douze mois après sortie effective et PDF signés préservés selon leur calendrier propre. La fermeture d'un compte ne modifie pas silencieusement un acte signé.
 
 ## 7. Éléments à signer
 
