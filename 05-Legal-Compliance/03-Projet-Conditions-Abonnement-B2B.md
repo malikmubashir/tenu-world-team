@@ -16,7 +16,7 @@ Référence : [cadre B2B](02-Cadre-B2B-Agences-France.md).
 
 ## 1. Parties et documents
 
-Le prestataire est [dénomination, forme, capital le cas échéant, siège, SIREN, TVA, représentant, contacts : À compléter], ci-après Tenu. Le client est l'agence immobilière identifiée au bon de commande. Le signataire déclare être habilité à engager son organisation. Les conditions, le bon de commande et les annexes acceptés dans leur version datée forment le contrat.
+Le prestataire est Global Apex.Net, société par actions simplifiée au capital de 100 euros, immatriculée au RCS de Versailles sous le numéro 941 666 067, dont le siège social est situé 4 Boulevard du Château, 78280 Guyancourt, France, exploitant le service Tenu.World, ci-après « Tenu ». Tenu.World désigne le service ; l'entité contractante est Global Apex.Net. Ces informations proviennent des [CGU publiées v1.1 du 12 juin 2026](https://tenu.world/legal/terms/fr), consultées le 29 octobre 2026 ; leur actualité reste à rapprocher de l'extrait d'immatriculation avant contractualisation. Numéro de TVA intracommunautaire et identité/qualité du représentant signataire : À confirmer. Contacts : support@tenu.world pour le service et les réclamations ; dpo@tenu.world pour les données personnelles. Le client est l'agence immobilière identifiée au bon de commande. Le signataire déclare être habilité à engager son organisation. Les conditions, le bon de commande et les annexes acceptés dans leur version datée forment le contrat. Le client souscrit pour les besoins de son activité professionnelle ; les locataires et bailleurs invités ne deviennent pas abonnés payants par leur seule participation à un état des lieux. L'acceptation du contrat d'abonnement est recueillie auprès du représentant habilité de l'agence, séparément de la signature des états des lieux.
 
 L'accord de traitement prévaut pour les données personnelles ; le bon de commande précise les paramètres commerciaux. Les annexes spéciales prévalent sur les présentes pour leur objet. Les engagements non expressément acceptés ne sont pas déduits d'une démonstration.
 
@@ -42,6 +42,18 @@ L'agence informe les participants des prises de vue et de leur utilisation, limi
 
 Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md), sections 1 et 2, complètent le parcours et la conservation. Niveau avancé eIDAS recommandé comme cible à vérifier ; prestataire et offre À confirmer. La signature inclut les annexes photographiques et un dossier de preuve exportable. Aucun label « avancé » ou « qualifié » n'est déduit du seul OTP ou dessin de signature. La durée d'archivage dépend du mandat et de la clôture des comptes, et la fin d'abonnement reste soumise à la restitution/suppression de l'annexe RGPD.
 
+### Comptes et droits d'utilisation
+
+L'agence désigne un administrateur, crée ou autorise les comptes de ses collaborateurs et révoque les accès au départ des personnes. Les comptes et moyens d'authentification restent individuels. Les invités accèdent uniquement aux dossiers pour lesquels ils sont habilités. Le dispositif technique d'authentification doit être décrit et vérifié avant usage ; l'authentification ne remplace pas les exigences de signature du document.
+
+L'usage professionnel de l'agence pour établir et gérer les constats de ses mandants est autorisé dans les limites souscrites. La revente à d'autres agences ou une offre en marque blanche nécessite un accord distinct. Sont interdits la falsification des constats, les accès non autorisés, le contournement de sécurité et l'exploitation automatisée non autorisée. L'agence garantit qu'elle dispose des droits, pouvoirs et bases légales nécessaires à l'utilisation des photos et observations ; les droits des auteurs et participants sont préservés.
+
+### Propriété intellectuelle et contenus du dossier
+
+Global Apex.Net conserve les droits dont elle est titulaire sur le logiciel, interfaces et gabarits Tenu. Les droits des tiers et licences applicables, notamment aux grilles de vétusté issues d'accords collectifs, sont réservés : aucune propriété exclusive sur toute grille juridique n'est revendiquée.
+
+Aucune cession des droits sur les photos ou observations à Tenu n'est opérée. Les titulaires conservent leurs droits ; l'agence autorise les seuls traitements et usages techniques nécessaires à la fourniture du service et aux durées documentées de conservation, y compris signature, remise et réversibilité. Le droit d'utiliser et de conserver les dossiers exportés pour les besoins légitimes de gestion et de preuve subsiste après l'abonnement. L'interdiction d'entraînement IA reste entière.
+
 ## 3. Pilote
 
 Le pilote dure 30 jours à compter de [événement de démarrage À compléter]. Il comprend [utilisateurs, dossiers, assistance et prix éventuel À compléter]. Il n'emporte aucune obligation de poursuivre. L'offre payante nécessite une acceptation explicite du bon de commande ; aucun prélèvement ne résulte de la seule fin du pilote.
@@ -54,7 +66,7 @@ L'abonnement payant débute à la date convenue au bon de commande pour une dur�
 
 À l'issue de cette période, le contrat se poursuit pour une durée indéterminée, sans nouvel engagement annuel. Chaque partie peut y mettre fin avec un préavis de 30 jours. Une demande reçue au moins 30 jours avant le terme initial empêche la poursuite ; si elle est reçue plus tard, elle produit effet à l'expiration du préavis, au plus tôt au terme initial.
 
-La demande est adressée via [canal durable et adresse À compléter], avec accusé de réception. Sa date de réception fixe le début du préavis ; l'absence d'accusé ne doit pas empêcher l'agence de prouver sa demande.
+La demande est adressée par courriel à support@tenu.world en identifiant l'agence et le contrat concerné, avec accusé de réception. Sa date de réception fixe le début du préavis ; l'absence d'accusé ne doit pas empêcher l'agence de prouver sa demande.
 
 ## 5. Prix et paiement
 
@@ -98,7 +110,21 @@ Les garanties à demander, les objectifs de consultation et une clause d'assuran
 
 ## 11. Droit et litiges
 
-Droit français proposé. Réclamation préalable auprès de [contact À compléter], puis recherche d'une solution amiable sans faire obstacle aux mesures urgentes ni aux délais d'action. La juridiction compétente et toute clause attributive sont À valider au regard de la qualité des parties et des règles applicables.
+Le contrat est régi par le droit français. Les réclamations sont adressées à support@tenu.world. Proposition de délai de réponse : dix jours ouvrés, à confirmer opérationnellement ; ce délai ne remplace pas les délais d'incident ou de notification applicables. La recherche d'un accord amiable ne fait pas obstacle aux mesures urgentes et n'emporte pas par elle-même suspension des délais d'action.
+
+À défaut d'accord, les juridictions compétentes sont déterminées par les règles de droit commun. L'ancienne désignation de Paris n'est pas reprise automatiquement. Toute clause attributive éventuellement négociée devra satisfaire à l'article 48 du Code de procédure civile, notamment qualité de commerçant de chaque partie et présentation très apparente.
+
+La médiation de la consommation n'est pas présentée comme le mécanisme contractuel du présent abonnement entre professionnels. Les éventuelles protections impératives applicables dans une situation particulière, notamment certains contrats conclus hors établissement, demeurent réservées. La signature d'un état des lieux par un locataire ne le rend pas partie au contrat d'abonnement de l'agence.
+
+## 12. Évolution du contrat et articulation avec les anciens textes
+
+Une nouvelle version est identifiée et communiquée sur support durable. La poursuite de l'utilisation ne vaut pas à elle seule acceptation d'une modification substantielle du prix, de la durée ou des prestations essentielles pendant la période ferme. Ces modifications nécessitent un accord exprès, sauf mécanisme contractuel licite déjà accepté ; les règles spécifiques de prix et de préavis prévues aux présentes restent applicables.
+
+Ce projet est destiné à remplacer les CGU B2C pour les nouveaux contrats d'agence après validation et mise en production documentaire. Il ne modifie pas rétroactivement les contrats déjà conclus avec des particuliers. Les règles de remboursement/sortie de l'abonnement sont définies dans le contrat B2B ; aucun renvoi automatique à une ancienne politique destinée aux achats à l'acte n'est prévu.
+
+La mention de validation DPO figurant sur l'ancienne page n'atteste pas une validation du présent projet. Le site et le parcours d'acceptation doivent être alignés avant ouverture de l'offre. Le présent changement documentaire dans le dépôt n'est pas un déploiement du site.
+
+Sources : [CGU publiées v1.1 du 12 juin 2026](https://tenu.world/legal/terms/fr) ; [article 48 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410147/).
 
 ## Bon de commande — champs obligatoires
 
