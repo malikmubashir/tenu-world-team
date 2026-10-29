@@ -48,6 +48,20 @@ Une baisse de prix sans réduction de coûts ou compensation commerciale détér
 
 ## Effet sur les documents existants
 
-Le fichier Tenu_Business_Plan_Financier_V1.xlsx conserve la grille historique de simulation et ses résultats : ils ne représentent pas encore une simulation de prix abaissés ni un coût vidéo validé. Une version recalculée est nécessaire après proposition de nouvelles valeurs.
+Les versions V1 et V2 sont historiques. La V3 intègre des coûts vidéo provisionnés et un test de baisse conjointe des prix et des quotas. La grille et ses coûts restent à valider.
 
 Les projections B2C d'avril 2026 dans 01-Financial-Projections.md sont historiques et ne constituent pas le plan financier du lancement B2B. Le marketing et la finance doivent intégrer la présente décision lors de leur prochaine révision.
+
+## Complément d'arbitrage — baisse des quotas également
+
+Sébastien Ferrié demande de réduire conjointement les prix ET les quotas, afin de rendre l'offre commercialement plus intéressante pour les professionnels.
+
+La comparaison doit porter sur la facture totale à usage comparable : forfait, utilisateurs, dépassements et saisonnalité. Une baisse du prix affiché n'est pas suffisante si elle augmente le coût d'usage réel. La viabilité doit être vérifiée à consommation normale et au quota maximal.
+
+La V3 teste, sans approbation commerciale, 29 / 59 / 99 € HT, avec 1 / 3 / 8 utilisateurs et 5 / 15 / 40 EDL mensuels, puis 3,50 € HT par EDL supplémentaire. Les montants restent des hypothèses DAF, pas une décision de prix.
+
+Sur trois profils illustratifs, la facture annuelle moyenne ressort inférieure à la référence Nockee Flex/Zen utilisée, dépassements compris (10 mois normaux et 2 mois de pic). En revanche, Tenu peut coûter davantage sur certains mois de pic ou pour des utilisateurs intensifs. Aucune supériorité tarifaire universelle ou équivalence fonctionnelle n'est affirmée.
+
+Avec les coûts vidéo actuellement provisionnés, cette grille ne protège pas suffisamment la marge : au quota plein, les offres Pro et Business peuvent être déficitaires avant charges fixes. La priorité est donc de réduire ou confirmer les coûts de production et de signature, puis ajuster la grille. Ne pas commercialiser cette simulation comme une offre économiquement validée.
+
+[Modèle financier courant, versionné](https://chatgpt.com/library?file_id=libfile_9914d10f689c81919b48c5582c8e8f87&account_id=personal)
