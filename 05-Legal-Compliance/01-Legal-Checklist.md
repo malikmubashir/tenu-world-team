@@ -3,11 +3,29 @@
 Version 2.0 — 28 octobre 2026  
 Responsable de revue : responsable juridique. Statut : exigences à vérifier, aucune case n'atteste une réalisation.
 
+
+## Précisions du responsable juridique — 29 octobre 2026
+
+**Stockage :** les photos sont stockées chiffrées chez Cloudflare dans l'Union européenne, selon les informations communiquées par le responsable juridique. Cette précision est intégrée au cadre documentaire ; la configuration, l'entité Cloudflare contractante, la région effective, la gestion des clés, les accès de support et les garanties de transfert restent à documenter dans la cartographie technique. Le chiffrement du stockage ne doit pas être présenté comme du chiffrement de bout en bout sans dispositif correspondant.
+
+**Interdiction d'entraînement :** les photos et leurs copies ne sont jamais utilisées pour entraîner ou affiner des modèles d'intelligence artificielle, par Tenu ou par ses prestataires. Cette interdiction est contractuelle et doit être répercutée dans le choix, les conditions et les réglages des API IA. Leur analyse pour générer les constats relève de l'inférence, avec rétention temporaire limitée ; elle n'autorise aucun entraînement. Aucune dérogation d'entraînement n'est prévue par cette offre.
+
+**Purge à douze mois :** la nouvelle instruction est de supprimer les photos après douze mois. Le point de départ (capture/téléversement, signature ou sortie) et le périmètre (fichiers autonomes, photos intégrées aux PDF signés, sauvegardes) sont en attente de précision. Les durées plus longues précédemment proposées pour les images probatoires ne sont donc pas considérées comme validées. Le calendrier ne peut être finalisé ni activé sur cette base avant résolution de ces points et des exceptions applicables. Une purge douze mois après l'entrée peut empêcher la comparaison lors d'une sortie ultérieure. Supprimer un fichier source ne retire pas sa copie du PDF signé ; retirer l'image du PDF modifierait l'acte. Le traitement du signé doit être décidé expressément, avec réversibilité, information et éventuel gel contentieux ciblé.
+
+**Grille de vétusté :** la référence communiquée « arrêté du 19 mars 2020 » est conservée comme référence à vérifier, sans la présenter comme fondement établi. Aucun texte correspondant n'a été identifié lors de la recherche. Le cadre confirmé pour les locations concernées est l'[article 4 du décret n° 2016-382 du 30 mars 2016](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032324427). Il prévoit notamment le choix par les parties d'une grille issue d'un accord collectif. Identifier le texte exact et la grille retenue, sa version, son accord source et son acceptation dans le bail avant tout calcul présenté comme contractuellement applicable. L'IA ne choisit pas seule une grille et ne décide pas de l'imputabilité des dommages.
+
 ## Périmètre adopté
 
 Agences immobilières en France, notamment au service d'expatriés ; états des lieux signés assistés par IA. Pilote de 30 jours sans poursuite automatique ; engagement payant initial de 12 mois facturé mensuellement ; poursuite mensuelle résiliable avec préavis de 30 jours.
 
 Documents : [cadre](02-Cadre-B2B-Agences-France.md), [conditions proposées](03-Projet-Conditions-Abonnement-B2B.md), [annexe RGPD/sécurité](04-Projet-Annexe-RGPD-Securite.md), [risques](../07-Risk/01-Risk-Register.md).
+
+## Compléments à clôturer
+
+- [ ] Technique/données : documenter le stockage photo Cloudflare UE chiffré, ses accès et clés.
+- [ ] Technique/juridique : vérifier les clauses et paramètres interdisant tout entraînement sur les photos chez chaque prestataire.
+- [ ] Juridique/produit : fixer le point de départ et le périmètre de la purge à douze mois, y compris PDF signés, export, sauvegardes et litiges ; réaligner les tableaux après décision.
+- [ ] Juridique : identifier l'arrêté du 19 mars 2020 invoqué et vérifier la grille source et son applicabilité au bail.
 
 ## Avant tout pilote avec dossiers réels
 
