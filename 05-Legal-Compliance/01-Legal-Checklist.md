@@ -58,6 +58,17 @@ Documents : [cadre](02-Cadre-B2B-Agences-France.md), [conditions proposées](03-
 - [ ] Technique : tester la non-réapparition après restauration et tracer les purges/échecs sans conserver une copie des images.
 - [ ] Juridique : préciser le sort des photos incluses dans les PDF signés et les limites de suppression des exemplaires remis/exportés.
 
+## Alignement avec les CGU publiques et identité de l'éditeur
+
+Source consultée le 29 octobre 2026 : [CGU publiées v1.1 du 12 juin 2026](https://tenu.world/legal/terms/fr).
+- [ ] Direction/juridique : vérifier l'actualité des informations Global Apex.Net reprises dans le contrat, renseigner TVA et représentant.
+- [ ] Produit/juridique : remplacer les CGU B2C pour les nouvelles souscriptions agences et recueillir l'accord du représentant habilité ; distinguer les invités signataires.
+- [ ] Juridique : aligner mentions légales, confidentialité, remboursement, conditions des invités et politiques liées ; traiter séparément les anciens contrats B2C.
+- [ ] Produit : retirer la tarification à l'acte et les restrictions d'usage personnel de l'offre agences, et ne pas importer l'ancienne logique de clôture/suppression.
+- [ ] Juridique : supprimer le lien ODR obsolète et adapter litiges, clauses de modification et responsabilité ; vérifier les éventuelles protections impératives des professionnels démarchés.
+- [ ] Direction/juridique : faire valider la nouvelle version ; ne pas réutiliser la mention de validation DPO de l'ancien texte pour la refonte.
+- [ ] Technique : confirmer la cartographie effective des prestataires et moyens d'authentification, sans les déduire des anciennes CGU.
+
 ## Avant abonnement payant
 
 - [ ] Commercial : fixer tarifs HT/TVA, utilisateurs, volumes, reports, dépassements et coût des signatures.
