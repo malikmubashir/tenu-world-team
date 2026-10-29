@@ -1,7 +1,7 @@
 # Tenu — Plan Go-to-Market v2 (B2B agences immobilières)
 
 **Version :** 2.0  
-**Date :** 2026-10-28  
+**Date :** 2026-10-28 — compléments du 29 octobre 2026  
 **Responsable :** Direction marketing  
 **Statut :** brouillon, à valider avec Malik  
 **Remplace :** `01-GTM-Plan.md` (v1.0 du 2026-04-02, B2C)
@@ -74,6 +74,8 @@ La cible prioritaire est le cabinet de gestion locative de 150 à 1 000 lots en 
 
 ## Offre et grille de licences
 
+**Arbitrage DAF du 29/10/2026 : la grille ci-dessous est historique et doit être revue à la baisse. Nouveaux prix non arrêtés. Voir [décision DAF](../04-Financial/02-Decisions-DAF-B2B-2026-10-29.md).**
+
 La licence est mensuelle, par agence, avec un quota d'EDL calé environ 30 % au-dessus du besoin moyen pour absorber les pics de juillet et septembre. Les prix sont des hypothèses à tester pendant les pilotes.
 
 | Offre | EDL inclus par mois | Cible | Prix HT par mois | Coût par EDL |
@@ -89,7 +91,7 @@ La licence est mensuelle, par agence, avec un quota d'EDL calé environ 30 % au-
 - Les EDL non utilisés ne se reportent pas d'un mois sur l'autre ; une option annuelle à −15 % lisse la saisonnalité.
 - Chaque analyse IA compte dans le quota (1 EDL de sortie = 1 analyse), car c'est le coût variable de Tenu.
 - Les 10 langues sont incluses dans toutes les offres : c'est l'argument différenciant, il n'est pas bridé.
-- Un essai pilote de 60 jours est offert, plafonné à 15 EDL.
+- Un essai pilote de 30 jours est offert, plafonné à 15 EDL.
 
 **Le positionnement prix face au marché** : les outils d'EDL simple coûtent de 3 à 6 € par EDL. Locatik, par exemple, est à 29 € HT par mois pour 10 EDL et 79 € HT pour 30 EDL ([Locatik](https://www.locatik.fr/tarifs/etat-des-lieux)) ; Nockee est à 59,99 € par mois en illimité ([Dimo Diagnostic](https://www.dimo-diagnostic.net/actualite-diagnostic-immobilier/application-etat-des-lieux)). Tenu se place 20 à 50 % au-dessus, ce qui n'est tenable qu'avec la preuve d'une baisse des litiges.
 
@@ -102,7 +104,7 @@ Le lancement se fait en quatre phases, chacune ouverte par un critère de passag
 | Phase | Période | Objectif | Actions clés | Critère de passage |
 | --- | --- | --- | --- | --- |
 | 0. Préparation | nov. à déc. 2026 | Kit commercial et cadre juridique prêts | Fiche agence, démo, CGV B2B, contrat de sous-traitance RGPD, liste de 150 prospects | CGV et contrat validés par l'avocat |
-| 1. Pilotes | janv. à mars 2027 | 10 agences pilotes actives | Prospection directe, essais de 60 jours, suivi hebdomadaire | 6 pilotes sur 10 utilisent Tenu pour plus de 50 % de leurs EDL |
+| 1. Pilotes | janv. à mars 2027 | 10 agences pilotes actives | Prospection directe, essais de 30 jours, suivi hebdomadaire | 6 pilotes sur 10 utilisent Tenu pour plus de 50 % de leurs EDL |
 | 2. Conversion | avr. à juin 2027 | 15 agences payantes | Conversion des pilotes, premiers cas clients, chambres FNAIM et UNIS locales | Churn inférieur à 3 % par mois |
 | 3. Extension | juil. à oct. 2027 | 30 agences payantes | Grandes villes universitaires (Lyon, Lille, Bordeaux, Toulouse), premiers réseaux franchisés | CAC inférieur à 360 € |
 
@@ -203,4 +205,26 @@ Le risque principal est le conflit de positionnement entre un outil B2C qui aide
 
 ---
 
-*Dernière mise à jour : 2026-10-28*
+
+## Action marketing demandée — Démonstration vidéo avant / après
+
+**Demande de Sébastien Ferrié du 29 octobre 2026.**
+**Responsable proposé : Direction marketing, avec appui Produit / Technique et revue du responsable juridique.**
+**Statut : à préparer. Aucune date de livraison arrêtée.**
+
+Préparer une vidéo test de démonstration sur un cas fictif : une même pièce à l'entrée puis à la sortie, avec une différence visible, afin de montrer concrètement le parcours Tenu aux professionnels et dans le dossier final.
+
+Livrables attendus :
+1. Deux courtes séquences de la même pièce, avec cadrages comparables : avant / après, par exemple un mur intact puis une marque ajoutée dans la scène fictive.
+2. Un montage présentant capture vidéo, classement par pièce, comparaison, différence signalée et exemple de rapport.
+3. Un exemple de rapport comparatif montrant les images retenues, leur rattachement aux séquences et les observations à vérifier par les personnes.
+4. Un scénario écrit et les fichiers sources réutilisables pour les présentations et démonstrations.
+
+La pièce et l'écart peuvent être mis en scène ou générés pour une démonstration conceptuelle. Afficher clairement « cas fictif » et identifier les écrans ou résultats simulés. Une différence ajoutée au montage ne doit pas être présentée comme une détection réelle de l'outil. Si le prototype fonctionne, distinguer sa sortie réellement obtenue de la maquette du parcours cible.
+
+Montrer un état des lieux partagé, relu et validé par les parties avant signature. Ne pas annoncer une attribution automatique de responsabilité, un résultat garanti ou une baisse des litiges déjà mesurée.
+
+Pour le chiffrage DAF, relever sur le test réel lorsqu'il existe : durée des vidéos, temps total de préparation, traitements et reprises, coût technique, corrections humaines et taille des fichiers. Un exemple fictif de communication ne suffit pas à valider précision, coûts ou temps gagné en conditions réelles.
+
+
+*Dernière mise à jour : 2026-10-29*
