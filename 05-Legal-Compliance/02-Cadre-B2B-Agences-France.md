@@ -3,6 +3,17 @@
 Version 2.0 — 28 octobre 2026  
 Statut : proposition documentaire pour revue du responsable juridique. Les éléments « À compléter » ne sont pas des engagements de service acquis.
 
+
+## Précisions du responsable juridique — 29 octobre 2026
+
+**Stockage :** les photos sont stockées chiffrées chez Cloudflare dans l'Union européenne, selon les informations communiquées par le responsable juridique. Cette précision est intégrée au cadre documentaire ; la configuration, l'entité Cloudflare contractante, la région effective, la gestion des clés, les accès de support et les garanties de transfert restent à documenter dans la cartographie technique. Le chiffrement du stockage ne doit pas être présenté comme du chiffrement de bout en bout sans dispositif correspondant.
+
+**Interdiction d'entraînement :** les photos et leurs copies ne sont jamais utilisées pour entraîner ou affiner des modèles d'intelligence artificielle, par Tenu ou par ses prestataires. Cette interdiction est contractuelle et doit être répercutée dans le choix, les conditions et les réglages des API IA. Leur analyse pour générer les constats relève de l'inférence, avec rétention temporaire limitée ; elle n'autorise aucun entraînement. Aucune dérogation d'entraînement n'est prévue par cette offre.
+
+**Purge à douze mois :** la nouvelle instruction est de supprimer les photos après douze mois. Le point de départ (capture/téléversement, signature ou sortie) et le périmètre (fichiers autonomes, photos intégrées aux PDF signés, sauvegardes) sont en attente de précision. Les durées plus longues précédemment proposées pour les images probatoires ne sont donc pas considérées comme validées. Le calendrier ne peut être finalisé ni activé sur cette base avant résolution de ces points et des exceptions applicables. Une purge douze mois après l'entrée peut empêcher la comparaison lors d'une sortie ultérieure. Supprimer un fichier source ne retire pas sa copie du PDF signé ; retirer l'image du PDF modifierait l'acte. Le traitement du signé doit être décidé expressément, avec réversibilité, information et éventuel gel contentieux ciblé.
+
+**Grille de vétusté :** la référence communiquée « arrêté du 19 mars 2020 » est conservée comme référence à vérifier, sans la présenter comme fondement établi. Aucun texte correspondant n'a été identifié lors de la recherche. Le cadre confirmé pour les locations concernées est l'[article 4 du décret n° 2016-382 du 30 mars 2016](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032324427). Il prévoit notamment le choix par les parties d'une grille issue d'un accord collectif. Identifier le texte exact et la grille retenue, sa version, son accord source et son acceptation dans le bail avant tout calcul présenté comme contractuellement applicable. L'IA ne choisit pas seule une grille et ne décide pas de l'imputabilité des dommages.
+
 ## 1. Décisions de cadrage
 
 Tenu fournit aux agences immobilières en France un logiciel d'établissement des états des lieux d'entrée et de sortie, assisté par IA. Les agences ciblent notamment des expatriés. L'agence souscrit et paie ; les bailleurs et locataires participent aux constats selon leur qualité. Le document final est destiné à constituer l'état des lieux signé, et non une simple annexe préparatoire.
@@ -85,7 +96,7 @@ Le document contractuel proposé est en français. Des traductions explicatives 
 
 Hypothèse à confirmer traitement par traitement : l'agence est responsable des dossiers ; Tenu est son sous-traitant. Si l'agence agit elle-même pour le compte d'un autre responsable, la chaîne doit être adaptée. Tenu est responsable distinct pour ses propres finalités légitimes de gestion commerciale et comptable.
 
-Pas d'entraînement de modèles sur les dossiers clients dans le périmètre sous-traité, sans cadre distinct préalablement validé. Pas de consentement générique imposé à tous comme base universelle. L'agence documente la base légale pertinente et l'information des personnes.
+Les photos et leurs copies ne sont jamais utilisées pour entraîner ou affiner des modèles, y compris chez les prestataires ; aucune dérogation n'est prévue pour cette offre. Pas de consentement générique imposé à tous comme base universelle. L'agence documente la base légale pertinente et l'information des personnes.
 
 Les photos d'intérieur peuvent contenir des données personnelles ; elles ne sont pas toutes automatiquement des catégories particulières de l'article 9. Éviter visages, papiers d'identité et documents privés sans nécessité. Les durées sont définies par finalité, exigences probatoires et litiges ; la suppression uniforme à 30 jours de l'ancien cadre est abandonnée pour les pièces nécessaires aux états des lieux signés.
 
