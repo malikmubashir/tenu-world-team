@@ -54,6 +54,15 @@ Mention IA proposée : « Certaines descriptions et comparaisons ont été prép
 
 ## F. Classification et purge
 
+Les fichiers photo séparés d'entrée et de sortie sont purgés douze mois après la sortie effective du locataire, renseignée par l'agence. Les photos intégrées aux PDF signés restent dans ces PDF et suivent leur calendrier documentaire, sans modification du signé. Les règles de copies temporaires, sauvegardes et gels ciblés sont décrites dans l'annexe RGPD.
+
+La version définitive à signer doit intégrer les photos retenues au PDF du rapport ou à un PDF d'annexe figé et lié à la signature. Ne pas créer un dossier signé dépendant de fichiers image séparés voués à la purge. Pour les dossiers existants, contrôler leur autonomie avant toute purge ; ne pas reconstruire ou modifier silencieusement un signé pour intégrer des images après coup.
+
+### Grille de vétusté
+
+Fondement : [article 4 du décret n° 2016-382 du 30 mars 2016](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032324427). Prévoir les champs : grille/version, accord collectif source, acceptation des parties et éléments utilisés pour appliquer la vétusté. Le décret ne fixe pas une grille nationale chiffrée unique ; l'absence de grille convenue est signalée, sans substitution automatique par l'IA.
+
+
 Dès la sélection, distinguer photos retenues et liées au signé, originaux utiles, images non retenues et copies temporaires. Chaque catégorie reçoit une règle et une échéance selon la [politique de conservation/purge](04-Projet-Annexe-RGPD-Securite.md#61-politique-proposée-pour-les-photographies).
 
 Les photos d'entrée retenues sont préservées pour la comparaison de sortie pendant le bail. Une fois intégrées au signé, leur suppression ne peut être réalisée en modifiant silencieusement ce document. Les délais proposés, sauvegardes, gels et copies remises sont traités dans l'annexe RGPD.
