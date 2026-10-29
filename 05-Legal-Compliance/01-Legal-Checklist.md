@@ -1,8 +1,15 @@
 # Tenu — Checklist active propriétaires particuliers
 
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
 29 octobre 2026 — Aucune case cochée ne peut résulter de la seule rédaction du document. Responsables à attribuer nominativement.
 
-Cadre : [11](11-Cadre-Proprietaires-Parcours-Location.md). Offre : propriétaires particuliers, France, locations vides/meublées, parcours guidé, photos/vidéos, analyse de candidatures, rating et baux ; documents adaptés aux locataires expatriés. Achat à l'acte/dossier à préciser, pas d'abonnement annuel agences par défaut.
+Cadre : [11](11-Cadre-Proprietaires-Parcours-Location.md). Offre : propriétaires particuliers, France, locations vides/meublées, parcours guidé, photos/vidéos, analyse de candidatures, rating et baux ; documents adaptés aux locataires expatriés. Achat à l'acte/dossier à préciser, pas d'abonnement annuel implicite.
 
 ## Avant toute collecte réelle
 
@@ -44,7 +51,7 @@ Cadre : [11](11-Cadre-Proprietaires-Parcours-Location.md). Offre : propriétaire
 ## Avant paiement et publication
 
 - [ ] Finaliser lots, prix TTC, options, quotas, livrables et délais du contrat 10.
-- [ ] Qualifier propriétaire consommateur/non-professionnel/professionnel et les conséquences ; offre pro distincte si nécessaire.
+- [ ] Qualifier propriétaire consommateur/non-professionnel/professionnel et les conséquences ; souscriptions professionnelles exclues du périmètre de cette offre.
 - [ ] Finaliser commande, confirmation durable, rétractation/service-contenu, garanties numériques et formulaires.
 - [ ] Désigner effectivement un médiateur et publier ses coordonnées ; pas de lien ODR obsolète.
 - [ ] Finaliser règles de remboursement, droits impératifs, responsabilité et assurance réelle.

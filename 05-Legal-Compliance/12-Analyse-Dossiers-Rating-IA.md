@@ -1,5 +1,12 @@
 # Tenu — Analyse documentaire et rating des candidats
 
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
 29 octobre 2026 — Spécification juridique et produit. Module prévu, **non réputé prêt à être activé**.
 
 ## 1. Objet, séparations et vocabulaire

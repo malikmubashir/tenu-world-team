@@ -1,5 +1,12 @@
 # Tenu — Notices aux candidats et locataires / traductions
 
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
 29 octobre 2026 — Trames à compléter, traduire et tester. Destinataires : candidats, locataires et garants, notamment expatriés non francophones. Le client payeur reste le propriétaire.
 
 ## 1. Règles de langue

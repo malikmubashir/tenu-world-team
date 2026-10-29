@@ -1,34 +1,35 @@
-# Tenu — Documentation juridique active
+# Tenu — Documentation juridique : prestation au propriétaire
 
 Mise à jour : 29 octobre 2026.
 
-## Positionnement courant
+## Une seule relation de prestation
 
-Client : **propriétaire particulier**, France, logements vides/meublés de résidence principale. Parcours guidé, photos/vidéos, analyse des justificatifs, rating du candidat, édition de baux et documents multilingues pour échanger avec les locataires expatriés.
+**Global Apex.Net / Tenu fournit la prestation au propriétaire particulier du logement, qui est le seul client, cocontractant et payeur.**
 
-Le rating est une fonction prévue à encadrer avant activation, non une certification de candidat. Aucun régime agence ou « locataire acheteur » n'est repris par défaut.
+Aucun contrat de prestation n'est proposé aux agences, candidats, locataires ou garants dans cette offre. Un mandataire peut intervenir pour le compte du propriétaire, sans devenir client à sa place. Les invités peuvent déposer des pièces, exercer leurs droits et signer le bail ou l'état des lieux sans acheter Tenu.
 
-## Documents actifs
+Trois documents ne doivent pas être confondus :
+1. **Contrat de prestation** : Global Apex.Net / propriétaire.
+2. **Bail** : propriétaire / locataire.
+3. **État des lieux** : constat établi et validé par les parties ou leurs représentants.
 
-| Document | Usage |
+Les obligations de protection des données et les droits des participants restent applicables indépendamment du contrat de prestation.
+
+## Documents du dossier courant
+
+| Document | Objet |
 |---|---|
-| [11 — Cadre propriétaires](11-Cadre-Proprietaires-Parcours-Location.md) | Décisions, périmètre et limites de chaque fonction |
-| [01 — Checklist](01-Legal-Checklist.md) | Contrôles avant collecte, module, paiement et publication |
-| [10 — Projet contrat/CGV propriétaire](10-Projet-Contrat-CGV-B2C.md) | Relation Tenu / client, prix et parcours consommateur à finaliser |
-| [04 — Matrice RGPD](04-Projet-Annexe-RGPD-Securite.md) | Finalités/rôles, droits, prestataires, sécurité et calendriers |
-| [05 — Template EDL](05-Template-Etat-des-Lieux-Photos.md) | Parcours guidé, médias, réserves et comparaison |
-| [06 — Paramètres](06-Parametres-Conservation-Signature-Service-Assurance.md) | Conservation, signature, service et assurance à vérifier |
-| [07 — Confidentialité/remboursements](07-Confidentialite-Remboursements-B2B.md) | Contenu actif propriétaires malgré le nom de fichier historique |
-| [12 — Analyse et rating](12-Analyse-Dossiers-Rating-IA.md) | Contrôles documentaires, méthode, droits et qualifications |
-| [13 — Template de bail](13-Template-Bail-Vide-Meuble.md) | Trame vide/meublé et conditions de génération |
-| [14 — Notices et langues](14-Notices-Locataires-Multilingues.md) | Information candidats/locataires, traductions et recette |
+| [10 — Contrat de prestation Tenu / propriétaire](10-Projet-Contrat-Prestation-Tenu-Proprietaire.md) | Parties, commande/prestations/prix, conditions et acceptation |
+| [11 — Cadre propriétaires](11-Cadre-Proprietaires-Parcours-Location.md) | Périmètre de l'offre et règles de chaque module |
+| [01 — Checklist](01-Legal-Checklist.md) | Contrôles avant collecte/activation/vente |
+| [04 — Matrice RGPD](04-Projet-Annexe-RGPD-Securite.md) | Rôles réels, notices, pièces, médias et calendriers |
+| [05 — Template état des lieux](05-Template-Etat-des-Lieux-Photos.md) | Guidage, réserves, médias et comparaison |
+| [06 — Paramètres de service](06-Parametres-Conservation-Signature-Service-Assurance.md) | Signature, conservation, continuité et assurance |
+| [07 — Confidentialité et remboursements propriétaire](07-Confidentialite-Remboursements-Proprietaires.md) | Protection des personnes et recours du client |
+| [12 — Analyse/rating](12-Analyse-Dossiers-Rating-IA.md) | Candidatures, contrôles, score et réexamen |
+| [13 — Template de bail](13-Template-Bail-Vide-Meuble.md) | Contrat propriétaire/locataire vide ou meublé |
+| [14 — Notices multilingues](14-Notices-Locataires-Multilingues.md) | Information des candidats/locataires et traductions |
 
-## Historique et portée
+Les anciens projets de contrat/abonnement agences et le cadre locataire acheteur ont été retirés de l'arborescence courante. Ils restent consultables dans l'historique Git ; aucun n'est incorporé au nouveau contrat.
 
-Les documents 02, 03, 08 et 09 décrivent des orientations précédentes (agences ou locataire payeur). Ils sont conservés comme historique, sans valeur de conditions de la nouvelle offre. Les éventuels contrats effectivement conclus ne sont pas modifiés rétroactivement.
-
-Le numéro et certains noms de fichiers restent stables pour préserver les liens ; leur titre et leur statut précisent le contenu actif. Le contrat Tenu/propriétaire est distinct du bail propriétaire/locataire.
-
-Les prix TTC, lots, critères/formule du rating, garanties/qualification IA, langues effectives, clauses finales du bail, signatures, assurances et paramètres de données doivent être finalisés. Les calendriers médias et candidatures sont distincts. Les pages du site, le code et les modèles chiffrés ne sont pas déployés/recalculés par la seule refonte documentaire.
-
-Cadrage produit, stratégie, marketing, technique et risques : voir les dossiers correspondants. Les anciennes études et projections sont signalées comme sources historiques à revalider.
+Les prix TTC, lots, méthodes du rating, garanties/qualification IA, langues effectives, clauses finales du bail, prestataire de signature et assurance restent à finaliser. La refonte ne modifie ni d'éventuels contrats déjà conclus ni le site déployé.

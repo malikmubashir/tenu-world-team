@@ -10,7 +10,7 @@ Le propriétaire paie ; candidats, locataires et garants ne sont pas obligés d'
 
 ## Périmètre et modèle commercial
 
-Client initial : propriétaire particulier ; logements de résidence principale en France, vide/meublé. Autres régimes/pays après modèle et validation propres. Qualification consommateur à examiner selon activité ; pas d'abonnement annuel agences par défaut.
+Client initial : propriétaire particulier ; logements de résidence principale en France, vide/meublé. Autres régimes/pays après modèle et validation propres. Qualification consommateur à examiner selon activité ; pas d'abonnement annuel implicite.
 
 Hypothèse de vente : à l'état des lieux ou au dossier. Définir lots et prix TTC : entrée/sortie, candidature/rating, bail/traductions, signature, conservation. Aucun revenu/prix ancien n'est repris sans décision. Pas de commission au recouvrement ni d'encaissement de loyers/dépôts prévus à ce stade.
 

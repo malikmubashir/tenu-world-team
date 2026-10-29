@@ -1,6 +1,13 @@
 # Tenu — Matrice RGPD et sécurité : propriétaires, candidats et locataires
 
-29 octobre 2026 — Remplace le schéma d'annexe exclusivement agences. À décliner en notice et, lorsqu'applicable, en accord article 28 finalisé. Le propriétaire consommateur n'est pas de ce seul fait exonéré de responsabilités sur les candidats.
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
+29 octobre 2026 — Matrice de données de la prestation au propriétaire. À décliner en notice et, lorsqu'applicable, en accord article 28 finalisé. Le propriétaire consommateur n'est pas de ce seul fait exonéré de responsabilités sur les candidats.
 
 ## 1. Rôles par finalité à valider
 
@@ -50,7 +57,7 @@ Lorsque Tenu est sous-traitant, l'annexe finale couvre instructions, confidentia
 | Sauvegardes | Cycle borné, cible d'expiration 90 jours après purge production à valider ; suppression rejouée avant restauration |
 | Contentieux | Gel motivé, ciblé et restreint, revue au moins semestrielle, levée et purge tracées |
 
-Les repères « 3/5 ans agence en gestion déléguée » ne sont pas un choix automatique pour tous les baux ou PDF de cette offre. Définir le calendrier final avant collecte ; informer séparément du maintien des images dans les PDF et de l'expiration des vidéos séparées.
+Les durées documentaires doivent être justifiées pour chaque finalité et ne sont pas uniformes. Définir le calendrier final avant collecte ; informer séparément du maintien des images dans les PDF et de l'expiration des vidéos séparées.
 
 La date de sortie est confirmée par le propriétaire, avec canal de correction pour le locataire. Date manquante : alertes/revue périodique et règles documentées, pas de conservation infinie. La fin de prestation peut déclencher restitution/suppression plus tôt selon le contrat et le droit applicable.
 

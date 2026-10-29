@@ -1,12 +1,19 @@
 # Tenu — Cadre actif propriétaires particuliers
 
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
 Version 3.0 — 29 octobre 2026. Source de vérité pour la nouvelle orientation documentaire.
 
 ## 1. Offre et personnes
 
 Tenu.World, exploité par Global Apex.Net, cible désormais les **propriétaires particuliers** de logements en France, en location **vide ou meublée à titre de résidence principale**. Le propriétaire achète le service ; le candidat/locataire, ses garants et éventuels mandataires sont des personnes concernées ou des invités, sans achat personnel obligatoire.
 
-Le propriétaire particulier peut être consommateur dans sa relation avec Tenu lorsque les critères légaux sont réunis ; sa qualité ne découle pas uniquement du nombre de biens. Cette offre est préparée sous un cadre consommateur protecteur ; une activité professionnelle nécessite une offre séparée. Le Royaume-Uni, la location saisonnière, le bail mobilité, les locations conventionnées/sociales et colocations à contrats multiples sont exclus du générateur initial tant que leurs variantes ne sont pas validées. Être expatrié ne suffit pas à choisir un régime de bail.
+Le propriétaire particulier peut être consommateur dans sa relation avec Tenu lorsque les critères légaux sont réunis ; sa qualité ne découle pas uniquement du nombre de biens. Cette offre est préparée sous un cadre consommateur protecteur ; une activité professionnelle est exclue du périmètre de cette offre. Le Royaume-Uni, la location saisonnière, le bail mobilité, les locations conventionnées/sociales et colocations à contrats multiples sont exclus du générateur initial tant que leurs variantes ne sont pas validées. Être expatrié ne suffit pas à choisir un régime de bail.
 
 Le paiement à l'état des lieux ou au dossier précédemment retenu reste l'hypothèse commerciale ; il faut définir le lot incluant ou non candidature, rating, bail et signature. Prix TTC, options, quotas et durée d'accès restent à fixer. Pas de réactivation implicite de l'abonnement annuel agences ni de financement obligatoire par le candidat.
 
@@ -92,4 +99,4 @@ Photos/vidéos séparées : purge en production douze mois après sortie effecti
 - [Baux : décret 2015-587 consolidé](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030649868/), annexes actualisées au 1er octobre 2026.
 - [Discrimination locative](https://www.service-public.gouv.fr/particuliers/vosdroits/F14750).
 
-Les projets agences et « locataire acheteur » sont historiques. Les règles validées de médias/non-entraînement sont préservées. Le site et le code ne sont pas déployés par la présente refonte.
+Les précédentes orientations sont retirées du corpus courant. Les règles validées de médias/non-entraînement sont préservées. Le site et le code ne sont pas déployés par la présente refonte.

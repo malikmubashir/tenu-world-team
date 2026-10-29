@@ -1,5 +1,12 @@
 # Tenu — Template d'état des lieux avec photographies et vidéos
 
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
 > **Orientation active — propriétaires particuliers.** Le propriétaire achète Tenu ; les candidats/locataires participent sans achat obligatoire. Voir le [cadre 11](11-Cadre-Proprietaires-Parcours-Location.md). Le parcours guidé et les propositions IA ne dispensent pas des réserves, de la validation contradictoire et de la remise.
 
 
@@ -70,7 +77,7 @@ Dès la sélection, distinguer photos retenues et liées au signé, originaux ut
 
 Les photos d'entrée retenues sont préservées pour la comparaison de sortie pendant le bail. Une fois intégrées au signé, leur suppression ne peut être réalisée en modifiant silencieusement ce document. Les délais proposés, sauvegardes, gels et copies remises sont traités dans l'annexe RGPD.
 
-Références : [cadre B2B](02-Cadre-B2B-Agences-France.md), [décret du 30 mars 2016, article 2](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000032320574), [article 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032324426/).
+Références : [cadre propriétaires](11-Cadre-Proprietaires-Parcours-Location.md), [décret du 30 mars 2016, article 2](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000032320574), [article 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032324426/).
 
 
 ## G. Complément actif — vidéos et parcours du particulier

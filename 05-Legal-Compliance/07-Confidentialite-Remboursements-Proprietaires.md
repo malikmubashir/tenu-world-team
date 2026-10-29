@@ -1,12 +1,19 @@
 # Tenu — Confidentialité et remboursements : offre propriétaires
 
-29 octobre 2026 — Le nom historique du fichier est conservé pour les liens ; le contenu actif concerne les propriétaires particuliers. Propositions à finaliser avant publication.
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
+29 octobre 2026 — Confidentialité et remboursements de la prestation fournie au propriétaire particulier. Propositions à finaliser avant publication.
 
 ## Confidentialité
 
 Se référer à la [matrice 04](04-Projet-Annexe-RGPD-Securite.md) et aux [notices 14](14-Notices-Locataires-Multilingues.md). Il faut informer séparément le client propriétaire et les candidats/locataires/garants. L'achat du service ne vaut pas consentement de ces derniers au profilage.
 
-La finalité et la méthode du score, ses destinataires, durées et droits de correction/réexamen sont expliqués avant traitement. Définir les responsabilités propres de Tenu et celles du propriétaire par module, sans appliquer automatiquement l'ancien schéma agence.
+La finalité et la méthode du score, ses destinataires, durées et droits de correction/réexamen sont expliqués avant traitement. Définir les responsabilités propres de Tenu et celles du propriétaire par module, selon les finalités et traitements effectifs.
 
 Médias chiffrés UE comme exigence, non-entraînement sur justificatifs, médias et dérivés, transferts/inférence vérifiés. Aucun « tout en Europe » ou « zéro rétention » sans preuve. Pas de garantie d'authenticité d'une pièce fondée sur la seule IA.
 
@@ -14,7 +21,7 @@ Photos/vidéos séparées : douze mois après sortie effective ; PDF contenant i
 
 ## Offre, rétractation et garanties
 
-L'acheteur est désormais le propriétaire particulier, avec qualification de consommateur à examiner et protection B2C comme base. Définir les lots : candidature/score, bail, état des lieux entrée/sortie, conservation. Pas d'abonnement annuel hérité des agences. Prix TTC et délais affichés.
+L'acheteur est désormais le propriétaire particulier, avec qualification de consommateur à examiner et protection B2C comme base. Définir les lots : candidature/score, bail, état des lieux entrée/sortie, conservation. Aucun abonnement annuel n'est prévu par défaut. Prix TTC et délais affichés.
 
 La rétractation et l'exécution anticipée sont traitées selon la qualification exacte de chaque service/contenu. La génération d'un résultat ou les coûts IA n'éteignent pas automatiquement les droits. Prévoir formulaire/fonction en ligne requis et confirmation durable. Les garanties légales numériques et droits en cas de défaut restent entiers.
 

@@ -1,6 +1,13 @@
 # Tenu — Paramètres actifs : conservation, signature, service et assurance
 
-29 octobre 2026 — Propriétaires particuliers, locations vides/meublées, candidature/rating, baux et médias guidés. Ce document remplace les propositions centrées sur un abonnement agence. Aucun SLA ou couverture n'est attesté par la rédaction.
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+
+29 octobre 2026 — Propriétaires particuliers, locations vides/meublées, candidature/rating, baux et médias guidés. Ce document encadre la prestation au propriétaire. Aucun SLA ou couverture n'est attesté par la rédaction.
 
 ## 1. Conservation
 
@@ -28,7 +35,7 @@ Version française de référence pour le bail français, traductions explicativ
 |---|---|
 | Délai de production | Par module : contrôle des pièces, rating validé, bail, médias ; annoncer avant achat |
 | Limites | Photos, vidéos, durée/poids, nombre candidats et corrections |
-| Disponibilité | Objectif mesuré adapté au produit ; le 99,5 % B2B n'est plus un engagement implicite |
+| Disponibilité | Objectif mesuré adapté à la prestation, à définir avant engagement |
 | Assistance | support@tenu.world, horaires et priorités À confirmer |
 | Sécurité/urgence | Canal réellement surveillé distinct du support commercial |
 | Sauvegarde/reprise | RPO/RTO par base, médias, preuves et documents À valider avec tests |

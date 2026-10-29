@@ -1,12 +1,39 @@
-# Tenu — Projet de contrat / CGV : propriétaires particuliers
+# Projet de contrat de prestation — Tenu / Propriétaire particulier
 
-29 octobre 2026 — Projet de travail non publiable en l'état. Compléter les champs, l'information précontractuelle, l'encadré réglementaire de garantie et le parcours de rétractation avant commande réelle. Ce texte est distinct des anciens contrats agences et ne les modifie pas rétroactivement.
+29 octobre 2026 — Projet de travail non publiable en l'état. Compléter les champs, l'information précontractuelle, l'encadré réglementaire de garantie et le parcours de rétractation avant commande réelle. Ce texte ne modifie pas rétroactivement les contrats éventuellement déjà conclus.
+
+## Périmètre contractuel unique
+
+**Le seul client et cocontractant de la prestation Tenu est le propriétaire particulier du logement.** Global Apex.Net fournit la prestation et la facture au propriétaire. Tenu ne commercialise dans cette offre aucun contrat de prestation aux agences, candidats, locataires ou garants. Un représentant habilité peut intervenir au nom et pour le compte du propriétaire, sans devenir client à sa place.
+
+Les candidats/locataires/garants peuvent transmettre des pièces, exercer leurs droits et participer à la signature du bail ou de l'état des lieux sans souscrire une prestation Tenu ni payer un accès. Le bail reste conclu entre le propriétaire et le locataire. Les obligations RGPD et les droits des participants restent applicables indépendamment de l'identité du payeur.
+
+## Identification et conditions particulières à compléter
+
+**Prestataire :** Global Apex.Net, exploitant Tenu.World, identifié à l'article 1, représenté par [nom/qualité à confirmer].
+
+**Client propriétaire :** [nom/prénom], domicilié [adresse], courriel [adresse], propriétaire du logement [adresse/identifiant], ou représenté par [nom/pouvoir agissant exclusivement pour son compte]. Vérification du droit/pouvoir de louer : [référence proportionnée]. Le client confirme agir dans le périmètre propriétaire particulier de l'offre ; sa qualification légale reste appréciée selon sa situation.
+
+| Paramètre de la prestation | Accord à compléter avant signature/commande |
+|---|---|
+| Référence du contrat / version | [référence/date] |
+| Logement et régime | [adresse ; vide ou meublé de résidence principale] |
+| Prestation achetée | [modules, nombre de candidatures/analyses, bail, entrée/sortie, signature et traductions] |
+| Prix total TTC et frais/options acceptés | [montant/détail ; aucun abonnement annuel implicite] |
+| Délai de fourniture par module | [délais annoncés] |
+| Médias/limites/corrections | [formats, poids, durée, quotas et corrections] |
+| Accès/conservation/export des documents | [durées et modalités distinctes du calendrier des médias] |
+| Paiement | [moyen, date et preuve] |
+| Exécution anticipée et rétractation | [parcours légal adapté et accord distinct si requis] |
+| Conditions et notices remises | [versions figées jointes et date] |
+
+Ce bloc individualise la prestation ; il n'est pas un contrat de bail. Aucun champ vide ne vaut achat d'une option ou acceptation d'une garantie non démontrée.
 
 ## 1. Fournisseur et client
 
 Le fournisseur du service Tenu.World est Global Apex.Net, SAS au capital de 100 €, RCS Versailles 941 666 067, siège : 4 Boulevard du Château, 78280 Guyancourt, France. TVA déclarée : FR89 941 666 067 ; informations à vérifier avant publication. Contact : support@tenu.world ; données personnelles : dpo@tenu.world.
 
-Le client est le propriétaire particulier d'un logement loué en France, agissant dans les conditions de l'offre. Sa qualité de consommateur doit être appréciée selon sa situation et sa finalité ; le présent projet utilise le cadre B2C protecteur sans transformer une activité professionnelle en activité privée. Identité et pouvoir de louer sont vérifiés proportionnellement. Candidats, locataires, garants et mandataires sont invités/concernés sans achat personnel obligatoire. Une offre professionnelle nécessite un cadrage distinct.
+Le client est le propriétaire particulier d'un logement loué en France, agissant dans les conditions de l'offre. Sa qualité de consommateur doit être appréciée selon sa situation et sa finalité ; le présent projet utilise le cadre B2C protecteur sans transformer une activité professionnelle en activité privée. Identité et pouvoir de louer sont vérifiés proportionnellement. Candidats, locataires, garants et mandataires sont invités/concernés sans achat personnel obligatoire. Les souscriptions professionnelles sont exclues du périmètre de cette offre.
 
 Périmètre de cette version : logements en France, régime du bail [à préciser]. Les langues effectivement disponibles sont annoncées avant achat. Les besoins des clients résidant à l'étranger sont examinés sans écarter les règles impératives qui leur seraient applicables.
 
@@ -28,7 +55,7 @@ Les régimes hors périmètre du générateur (notamment mobilité, saisonnier e
 
 ## 3. Offre et prix à compléter avant commercialisation
 
-Le propriétaire paie à l'état des lieux ou au dossier selon le lot précisément décrit à la commande. Définir l'inclusion éventuelle des contrôles de candidature, du rating, du bail, des traductions et de la signature. Aucun abonnement ni engagement annuel B2B n'est inclus.
+Le propriétaire paie à l'état des lieux ou au dossier selon le lot précisément décrit à la commande. Définir l'inclusion éventuelle des contrôles de candidature, du rating, du bail, des traductions et de la signature. Aucun abonnement ni engagement annuel n'est inclus.
 
 | Élément de la commande | À définir et afficher avant paiement |
 |---|---|
@@ -43,7 +70,7 @@ Le propriétaire paie à l'état des lieux ou au dossier selon le lot précisém
 | Éventuelles options payantes | [prix TTC et consentement exprès ; aucune case précochée] |
 | Assistance | [canal, horaires et délai réellement assuré] |
 
-Le coût et les limites sont accessibles dans la langue de l'offre. Les fonctions photo et vidéo ne sont promises que si effectivement prises en charge. Les objectifs de service des projets B2B ne sont pas intégrés automatiquement.
+Le coût et les limites sont accessibles dans la langue de l'offre. Les fonctions photo et vidéo ne sont promises que si effectivement prises en charge. Seuls les engagements de service expressément définis pour cette prestation sont applicables.
 
 ## 4. Commande et formation du contrat
 
@@ -87,7 +114,7 @@ Les garanties légales applicables aux contenus/services numériques et les droi
 
 Réclamation : support@tenu.world avec référence et description. Une demande valable reçue par un autre moyen n'est pas rejetée pour cette seule raison. Horaires et objectifs de réponse [à confirmer] ne restreignent pas les délais et recours légaux.
 
-Les clauses B2B de pénalité forfaitaire de 40 €, plafond calculé sur abonnement et tribunal de commerce ne s'appliquent pas à cette offre.
+Aucune pénalité forfaitaire professionnelle de 40 € ni attribution exclusive à un tribunal de commerce n'est prévue dans cette offre au particulier.
 
 ## 7. Photos, vidéos, droits et usages
 
@@ -127,7 +154,7 @@ Contact : dpo@tenu.world et contact du responsable du dossier indiqué dans la n
 
 Tenu répond de ses obligations propres selon le droit applicable. La validation humaine, l'IA ou le recours à des prestataires n'exonèrent pas globalement le fournisseur. Aucune clause ne supprime les droits impératifs du consommateur ou ne garantit l'issue d'un litige locatif.
 
-Les conditions d'accès après livraison, fermeture de compte, export et suppression sont décrites avant achat et ne sont pas celles d'un abonnement annuel agences. Aucun renouvellement payant n'est tacitement créé.
+Les conditions d'accès après livraison, fermeture de compte, export et suppression sont décrites avant achat. Aucun renouvellement payant n'est tacitement créé.
 
 Droit français sous réserve des dispositions impératives applicables au consommateur, notamment en cas de résidence étrangère. Les règles protectrices de compétence demeurent ; aucune attribution exclusive au tribunal de commerce de Paris.
 
@@ -137,8 +164,21 @@ Les CGV acceptées lors de la commande restent identifiées ; une mise à jour d
 
 ## Documents de préparation
 
-[Cadre actif propriétaires](11-Cadre-Proprietaires-Parcours-Location.md), [analyse et rating](12-Analyse-Dossiers-Rating-IA.md), [template bail](13-Template-Bail-Vide-Meuble.md), [notices multilingues](14-Notices-Locataires-Multilingues.md), [matrice RGPD](04-Projet-Annexe-RGPD-Securite.md). Les projets agences et locataire acheteur sont historiques ; ils ne sont pas incorporés au contrat par simple renvoi.
+[Cadre actif propriétaires](11-Cadre-Proprietaires-Parcours-Location.md), [analyse et rating](12-Analyse-Dossiers-Rating-IA.md), [template bail](13-Template-Bail-Vide-Meuble.md), [notices multilingues](14-Notices-Locataires-Multilingues.md), [matrice RGPD](04-Projet-Annexe-RGPD-Securite.md). Seuls les documents identifiés et acceptés pour cette prestation sont incorporés au contrat.
 
 Références : [article L221-28](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563170/), [DGCCRF — rétractation](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/delais-de-reflexion-ou-de-retractation-comment-sappliquent-t-ils), [DGCCRF — garanties numériques](https://www.economie.gouv.fr/files/files/directions_services/dgccrf/Faq/FAQ-garanties.pdf?v=1757056285), [médiation](https://www.economie.gouv.fr/mediation-conso/vous-etes-un-professionnel/vos-principales-obligations-0).
 
 Le contrat définitif nécessite la validation de l'offre, des parcours et des champs ouverts ; aucun achat, aucune signature ni publication n'est effectué par la rédaction de ce modèle.
+
+
+## Acceptation du contrat de prestation et remise
+
+Le propriétaire accepte les prestations et prix renseignés ci-dessus ainsi que les conditions dans leur version jointe. Le prestataire confirme la commande selon le parcours retenu. L'acceptation porte uniquement sur la relation Global Apex.Net / propriétaire ; elle ne remplace ni la signature du bail/EDL par leurs parties, ni l'information des candidats et locataires.
+
+**Pour Global Apex.Net — Tenu :** [nom/qualité du représentant], [date], [signature ou référence de confirmation contractuelle].  
+**Propriétaire client :** [nom], [date], [signature ou preuve d'acceptation de commande].  
+**Remise sur support durable :** [date/canal/identifiant du dossier contractuel complet].
+
+Les consentements et reconnaissances d'exécution anticipée éventuellement requis sont recueillis séparément dans les conditions légales ; cette signature n'est pas une renonciation générale aux droits du consommateur.
+
+Projet à finaliser avant souscription : prix/lot, garanties, médiateur, notices et autres champs ouverts. Aucune agence, aucun candidat ni locataire ne signe ce contrat en qualité de client.
