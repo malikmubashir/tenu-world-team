@@ -132,6 +132,12 @@ La mention de validation DPO figurant sur l'ancienne page n'atteste pas une vali
 
 Sources : [CGU publiées v1.1 du 12 juin 2026](https://tenu.world/legal/terms/fr) ; [article 48 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410147/).
 
+## Contrat individualisé et signature
+
+Le [projet de contrat Tenu / agence](08-Projet-Contrat-Tenu-Agence.md) met en forme ces conditions pour une souscription déterminée : parties, clauses, bon de commande, acceptation payante distincte, annexes et signatures. Finaliser les champs et joindre des copies figées des documents acceptés. Une page GitHub modifiable ou une note de travail ne suffit pas à définir la version contractuelle.
+
+Les choix rédactionnels nouveaux (échéance de paiement, impayés, prorata et autres options) sont proposés dans le modèle et doivent être validés expressément. Aucun contrat n'est signé ni aucune agence engagée par la création de ce modèle.
+
 ## Bon de commande — champs obligatoires
 
 - Identité complète des parties et pouvoir du signataire.
