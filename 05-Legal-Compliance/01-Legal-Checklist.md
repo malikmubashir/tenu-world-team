@@ -92,6 +92,17 @@ Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Si
 - [ ] Juridique : finaliser le plafond de responsabilité et les clauses d'assurance après réponses du courtier.
 - [ ] Juridique : identifier nominativement les validateurs et consigner décisions, date et preuves ; aucune case n'est close par la seule rédaction.
 
+## Confidentialité et remboursements — complément du 29 octobre 2026
+
+Voir les [compléments confidentialité et remboursements B2B](07-Confidentialite-Remboursements-B2B.md).
+- [ ] Juridique/produit : comparer les versions déployées avec les sources privacy/refund du dépôt ; la lecture web directe a échoué.
+- [ ] Direction : vérifier TVA FR89 941 666 067 et APE 62.02A déclarés dans la source, sur justificatifs actuels.
+- [ ] Données/technique : confirmer la liste des prestataires, les flux IA internationaux et la rétention ; ne pas présenter une migration prévue comme effective.
+- [ ] Juridique : adapter bases légales, notices aux invités, droits, cookies et procédure violation au B2B.
+- [ ] Commercial/juridique : valider remboursements, crédits de génération, délais, prorata et articulation avec SLA.
+- [ ] Produit : préserver les preuves lors d'une contestation de paiement et corriger la qualification de rétractation de l'ancien parcours si celui-ci est maintenu pour des contrats historiques.
+- [ ] Juridique : harmoniser les textes avant publication, sans étendre la validation de l'ancienne version à cette refonte.
+
 ## Contrôles récurrents
 
 | Contrôle | Fréquence proposée | Responsable |
