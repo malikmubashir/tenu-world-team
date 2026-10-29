@@ -1,5 +1,8 @@
 # Tenu — Paramètres proposés : conservation, signature, service et assurance
 
+> **Projet B2B historique — réorientation du 29 octobre 2026.** Le modèle actif est désormais B2C, destiné prioritairement aux expatriés, avec paiement à l'état des lieux ou au dossier et photos/vidéos. Consulter le [cadre B2C 09](09-Cadre-B2C-Expatries-Photos-Videos.md) et le [projet de CGV B2C 10](10-Projet-Contrat-CGV-B2C.md). Les clauses agences et l'engagement annuel ci-dessous ne s'appliquent pas par défaut aux particuliers. Ce texte reste une source de travail historique, sans modification rétroactive d'éventuels contrats déjà conclus.
+
+
 28 octobre 2026 — Version de travail 1.0  
 Statut : proposition pour validation du responsable juridique et des responsables techniques. Les modalités commerciales d'abonnement restent celles déjà retenues. Les paramètres ci-dessous ne constituent pas une attestation de conformité ou de couverture ni un SLA déjà souscrit. Prestataire de signature et assureur : **À confirmer**, conformément à l'instruction du responsable juridique.
 
