@@ -1,21 +1,34 @@
-# Tenu — Documentation juridique
+# Tenu — Documentation juridique active
 
 Mise à jour : 29 octobre 2026.
 
-## Orientation active
+## Positionnement courant
 
-**B2C, priorité aux locataires expatriés ; paiement à l'état des lieux ou au dossier ; photos et vidéos.**
+Client : **propriétaire particulier**, France, logements vides/meublés de résidence principale. Parcours guidé, photos/vidéos, analyse des justificatifs, rating du candidat, édition de baux et documents multilingues pour échanger avec les locataires expatriés.
 
-- [09 — Cadre B2C et décisions photo/vidéo](09-Cadre-B2C-Expatries-Photos-Videos.md)
-- [10 — Projet de contrat et CGV B2C](10-Projet-Contrat-CGV-B2C.md)
-- [05 — Template documentaire, à adapter au parcours B2C et aux vidéos](05-Template-Etat-des-Lieux-Photos.md)
+Le rating est une fonction prévue à encadrer avant activation, non une certification de candidat. Aucun régime agence ou « locataire acheteur » n'est repris par défaut.
 
-Les prix, la définition exacte du dossier, les paramètres vidéo, les garanties et parcours de rétractation, le médiateur, la durée documentaire des PDF et les capacités de signature restent à finaliser. Les médias séparés sont purgés douze mois après sortie effective ; les images intégrées aux PDF signés suivent leur propre calendrier. Aucune utilisation pour entraîner des IA.
+## Documents actifs
 
-## Projets précédents
+| Document | Usage |
+|---|---|
+| [11 — Cadre propriétaires](11-Cadre-Proprietaires-Parcours-Location.md) | Décisions, périmètre et limites de chaque fonction |
+| [01 — Checklist](01-Legal-Checklist.md) | Contrôles avant collecte, module, paiement et publication |
+| [10 — Projet contrat/CGV propriétaire](10-Projet-Contrat-CGV-B2C.md) | Relation Tenu / client, prix et parcours consommateur à finaliser |
+| [04 — Matrice RGPD](04-Projet-Annexe-RGPD-Securite.md) | Finalités/rôles, droits, prestataires, sécurité et calendriers |
+| [05 — Template EDL](05-Template-Etat-des-Lieux-Photos.md) | Parcours guidé, médias, réserves et comparaison |
+| [06 — Paramètres](06-Parametres-Conservation-Signature-Service-Assurance.md) | Conservation, signature, service et assurance à vérifier |
+| [07 — Confidentialité/remboursements](07-Confidentialite-Remboursements-B2B.md) | Contenu actif propriétaires malgré le nom de fichier historique |
+| [12 — Analyse et rating](12-Analyse-Dossiers-Rating-IA.md) | Contrôles documentaires, méthode, droits et qualifications |
+| [13 — Template de bail](13-Template-Bail-Vide-Meuble.md) | Trame vide/meublé et conditions de génération |
+| [14 — Notices et langues](14-Notices-Locataires-Multilingues.md) | Information candidats/locataires, traductions et recette |
 
-Les documents 01 à 04 et 06 à 08 décrivent l'ancien cadrage B2B agences ou ses paramètres. Ils restent disponibles comme historique et comme sources de clauses techniques à réexaminer. Le projet de contrat agence 08 n'est pas le contrat des particuliers. Aucun engagement annuel, prix HT, pénalité professionnelle ou schéma de sous-traitance agence n'est transposé par défaut au B2C.
+## Historique et portée
 
-Le modèle 05 conserve des éléments utiles, mais son complément B2C/vidéo et les documents 09/10 font foi pour la nouvelle orientation de travail. Les documents et contrats effectivement acceptés antérieurement ne sont pas modifiés rétroactivement.
+Les documents 02, 03, 08 et 09 décrivent des orientations précédentes (agences ou locataire payeur). Ils sont conservés comme historique, sans valeur de conditions de la nouvelle offre. Les éventuels contrats effectivement conclus ne sont pas modifiés rétroactivement.
 
-Les pages légales publiques et les autres dossiers du dépôt ne sont pas automatiquement réalignés par cette documentation. La rédaction ne prouve ni déploiement, ni conformité acquise, ni assurance souscrite.
+Le numéro et certains noms de fichiers restent stables pour préserver les liens ; leur titre et leur statut précisent le contenu actif. Le contrat Tenu/propriétaire est distinct du bail propriétaire/locataire.
+
+Les prix TTC, lots, critères/formule du rating, garanties/qualification IA, langues effectives, clauses finales du bail, signatures, assurances et paramètres de données doivent être finalisés. Les calendriers médias et candidatures sont distincts. Les pages du site, le code et les modèles chiffrés ne sont pas déployés/recalculés par la seule refonte documentaire.
+
+Cadrage produit, stratégie, marketing, technique et risques : voir les dossiers correspondants. Les anciennes études et projections sont signalées comme sources historiques à revalider.

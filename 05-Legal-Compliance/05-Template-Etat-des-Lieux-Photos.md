@@ -1,6 +1,6 @@
 # Tenu — Template d'état des lieux avec photographies et vidéos
 
-> **Mise à jour B2C / vidéos — 29 octobre 2026.** La cible active est le particulier expatrié, avec paiement à l'état des lieux ou au dossier. Voir le [cadre 09](09-Cadre-B2C-Expatries-Photos-Videos.md) et le [projet de CGV 10](10-Projet-Contrat-CGV-B2C.md). Les médias séparés photo/vidéo sont purgés douze mois après sortie effective. Les exigences ci-dessous sont complétées par la section G ; elles ne prouvent pas la mise en œuvre technique.
+> **Orientation active — propriétaires particuliers.** Le propriétaire achète Tenu ; les candidats/locataires participent sans achat obligatoire. Voir le [cadre 11](11-Cadre-Proprietaires-Parcours-Location.md). Le parcours guidé et les propositions IA ne dispensent pas des réserves, de la validation contradictoire et de la remise.
 
 
 28 octobre 2026 — Spécification documentaire à implémenter et à valider avant utilisation réelle.  
@@ -87,7 +87,7 @@ Les extraits ne remplacent pas implicitement l'ensemble de la séquence ; ne pas
 
 ### Signature, remise et statut
 
-Le locataire peut préparer seul un dossier documentaire. Afficher explicitement le statut « dossier unilatéral » tant que les parties/mandataires n'ont pas participé au processus contradictoire et signé. L'invitation ne vaut pas acceptation du bailleur.
+Chaque partie peut préparer seule un dossier documentaire. Afficher explicitement le statut « dossier unilatéral » tant que les parties/mandataires n'ont pas participé au processus contradictoire et signé. L'invitation ne vaut pas acceptation du bailleur.
 
 Les parties doivent pouvoir revoir les séquences et images réellement annexées avant signature et inscrire leurs réserves. Le dossier final contient les images fixes retenues dans le PDF et un inventaire figé des vidéos avec empreintes et repères ; les vidéos sont remises par fichiers exportables si la prestation le prévoit. Une simple URL ou un QR code ne garantit pas une disponibilité durable.
 
@@ -100,3 +100,16 @@ Informer avant achat et signature que les liens vidéo ne fonctionneront plus ap
 ### Paramètres à finaliser
 
 Formats/poids/durée, accessibilité, audio, langues, délai de traitement, lecture/export, signature et durées des PDF doivent être validés avant commercialisation B2C. Les exigences de stockage chiffré UE et d'absence d'entraînement doivent être vérifiées aussi pour les vidéos et leurs fournisseurs.
+
+
+## H. Parcours guidé et distinction vétusté/dégradation
+
+Le propriétaire initie le dossier et invite les parties. Le parcours sélectionne logement vide/meublé, pièces, éléments à inspecter, vues nécessaires, compteurs, clés et mobilier le cas échéant. Une étape ignorée est signalée ; aucune donnée fictive n'est ajoutée pour compléter le rapport.
+
+Pour chaque élément : état d'entrée, état de sortie, médias/preuves référencés, âge connu et source, grille convenue/version, observations de chaque partie et suggestion IA. Sorties possibles : usure/vétusté plausible, dommage possible, préexistant, indéterminé. Indiquer indices, qualité de comparaison, limites et validation/correction humaine. Les photos seules ne prouvent pas l'âge d'un équipement ou la cause d'un défaut.
+
+Séparer description, appréciation technique, imputabilité et éventuel coût justifié. Aucune retenue automatique. Le rating du candidat du document 12 est une autre fonction ; il n'est pas réutilisé pour conclure à sa faute lors de la sortie.
+
+Les instructions, réserves et explications sont disponibles dans les langues effectivement offertes, avec version française et traductions liées. Contrôler la compréhension avant signature ; pas de dégradation de score en raison de la langue.
+
+La règle douze mois après sortie vise photos/vidéos séparées ; les pièces de candidature et le bail suivent leurs calendriers propres. Les compléments B2C « locataire acheteur » antérieurs ne définissent plus le rôle du client.

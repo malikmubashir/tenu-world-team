@@ -1,5 +1,8 @@
 # Tenu — Week 1 Build Guide
 
+> **Statut documentaire — orientation propriétaires du 29 octobre 2026.** Architecture/prompts/guide de l'ancienne offre, à ne pas appliquer sans la nouvelle spécification technique 05. Source active : [cadre propriétaires](../05-Legal-Compliance/11-Cadre-Proprietaires-Parcours-Location.md), [produit](../02-Product/01-Product-Specification.md), [hypothèses financières](../04-Financial/04-Hypotheses-Proprietaires.md). Le propriétaire particulier est le client ; les anciens ciblages/prix/abonnements ne s'appliquent pas par défaut.
+
+
 **Period:** 2026-04-03 to 2026-04-10  
 **Goal:** tenu.world live on Webflow, Cloudflare R2 set up, Stripe ready, Brevo configured, waitlist validated
 

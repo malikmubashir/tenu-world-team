@@ -1,4 +1,7 @@
 # TENU — Business Model Canvas V2
+
+> **Statut documentaire — orientation propriétaires du 29 octobre 2026.** Étude ou cadrage historique à revalider pour le segment propriétaires particuliers. Source active : [cadre propriétaires](../05-Legal-Compliance/11-Cadre-Proprietaires-Parcours-Location.md), [produit](../02-Product/01-Product-Specification.md), [hypothèses financières](../04-Financial/04-Hypotheses-Proprietaires.md). Le propriétaire particulier est le client ; les anciens ciblages/prix/abonnements ne s'appliquent pas par défaut.
+
 **Positionnement proposé : plateforme de confiance locative à deux faces — locataires et propriétaires.**
 **Statut : proposition stratégique non validée.** Sources : `01-Strategy/01-Business-Strategy.md` et `01-Strategy/02-Market-Analysis.md` (2 avril 2026), complétées par l'hypothèse propriétaire et état des lieux à distance proposée le 28 octobre 2026.
 

@@ -1,5 +1,8 @@
 # Tenu — Projet de conditions d'abonnement B2B
 
+> **Historique — remplacé pour la nouvelle offre du 29 octobre 2026.** Client actif : propriétaire particulier, locations vides/meublées, parcours guidé, analyse des candidats/rating, baux et médias. Référence : [cadre 11](11-Cadre-Proprietaires-Parcours-Location.md) et [contrat 10](10-Projet-Contrat-CGV-B2C.md). Les clauses agences ou locataire acheteur ci-dessous ne définissent plus la nouvelle offre ; aucun effet rétroactif sur des contrats déjà conclus.
+
+
 > **Projet B2B historique — réorientation du 29 octobre 2026.** Le modèle actif est désormais B2C, destiné prioritairement aux expatriés, avec paiement à l'état des lieux ou au dossier et photos/vidéos. Consulter le [cadre B2C 09](09-Cadre-B2C-Expatries-Photos-Videos.md) et le [projet de CGV B2C 10](10-Projet-Contrat-CGV-B2C.md). Les clauses agences et l'engagement annuel ci-dessous ne s'appliquent pas par défaut aux particuliers. Ce texte reste une source de travail historique, sans modification rétroactive d'éventuels contrats déjà conclus.
 
 

@@ -1,5 +1,8 @@
 # Tenu — Introduction Brief
 
+> **Orientation documentaire du 29 octobre 2026 : propriétaires particuliers.** Cette présentation historique est à revalider. Offre active : locations vides/meublées en France, parcours guidé, photos/vidéos, analyse documentaire des candidatures, rating personnel encadré, baux et échanges multilingues avec les locataires expatriés. Voir le [cadre actif](05-Legal-Compliance/11-Cadre-Proprietaires-Parcours-Location.md) et la [spécification produit](02-Product/01-Product-Specification.md). Les anciennes cibles/prix ne sont pas repris automatiquement.
+
+
 **tenu.world** | Global Apex NET (SAS, France)
 Founded by Dr Mubashir Hassan | April 2026
 

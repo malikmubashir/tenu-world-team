@@ -1,5 +1,8 @@
 # Tenu — Nouveau cadre B2C expatriés, photos et vidéos
 
+> **Historique — remplacé pour la nouvelle offre du 29 octobre 2026.** Client actif : propriétaire particulier, locations vides/meublées, parcours guidé, analyse des candidats/rating, baux et médias. Référence : [cadre 11](11-Cadre-Proprietaires-Parcours-Location.md) et [contrat 10](10-Projet-Contrat-CGV-B2C.md). Les clauses agences ou locataire acheteur ci-dessous ne définissent plus la nouvelle offre ; aucun effet rétroactif sur des contrats déjà conclus.
+
+
 29 octobre 2026 — Orientation active ; rédaction contractuelle à finaliser avant commercialisation.
 
 ## 1. Décisions confirmées

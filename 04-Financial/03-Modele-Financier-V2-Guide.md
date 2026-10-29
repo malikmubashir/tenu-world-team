@@ -1,5 +1,8 @@
 # Tenu — Base financière B2B V2
 
+> **Statut documentaire — orientation propriétaires du 29 octobre 2026.** Hypothèses/prévisions de l'ancienne offre, à recalculer avec les lots et coûts propriétaires ; aucun chiffre n'est validé pour le nouveau modèle. Source active : [cadre propriétaires](../05-Legal-Compliance/11-Cadre-Proprietaires-Parcours-Location.md), [produit](../02-Product/01-Product-Specification.md), [hypothèses financières](../04-Financial/04-Hypotheses-Proprietaires.md). Le propriétaire particulier est le client ; les anciens ciblages/prix/abonnements ne s'appliquent pas par défaut.
+
+
 29 octobre 2026 — outil de travail DAF, hypothèses non validées commercialement et sans devis fournisseur.
 
 [Ouvrir le modèle financier versionné](https://chatgpt.com/library?file_id=libfile_9914d10f689c81919b48c5582c8e8f87&account_id=personal)

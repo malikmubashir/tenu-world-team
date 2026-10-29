@@ -1,5 +1,8 @@
 # Tenu — Décisions DAF sur la tarification B2B
 
+> **Statut documentaire — orientation propriétaires du 29 octobre 2026.** Hypothèses/prévisions de l'ancienne offre, à recalculer avec les lots et coûts propriétaires ; aucun chiffre n'est validé pour le nouveau modèle. Source active : [cadre propriétaires](../05-Legal-Compliance/11-Cadre-Proprietaires-Parcours-Location.md), [produit](../02-Product/01-Product-Specification.md), [hypothèses financières](../04-Financial/04-Hypotheses-Proprietaires.md). Le propriétaire particulier est le client ; les anciens ciblages/prix/abonnements ne s'appliquent pas par défaut.
+
+
 Date : 29 octobre 2026
 Décideur : Sébastien Ferrié, directeur administratif et financier
 Statut : orientation tarifaire arbitrée ; nouvelle grille chiffrée à définir et valider.

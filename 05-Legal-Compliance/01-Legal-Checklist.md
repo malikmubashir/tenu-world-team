@@ -1,135 +1,57 @@
-# Tenu — Checklist juridique et conformité B2B France
+# Tenu — Checklist active propriétaires particuliers
 
-> **Projet B2B historique — réorientation du 29 octobre 2026.** Le modèle actif est désormais B2C, destiné prioritairement aux expatriés, avec paiement à l'état des lieux ou au dossier et photos/vidéos. Consulter le [cadre B2C 09](09-Cadre-B2C-Expatries-Photos-Videos.md) et le [projet de CGV B2C 10](10-Projet-Contrat-CGV-B2C.md). Les clauses agences et l'engagement annuel ci-dessous ne s'appliquent pas par défaut aux particuliers. Ce texte reste une source de travail historique, sans modification rétroactive d'éventuels contrats déjà conclus.
+29 octobre 2026 — Aucune case cochée ne peut résulter de la seule rédaction du document. Responsables à attribuer nominativement.
 
+Cadre : [11](11-Cadre-Proprietaires-Parcours-Location.md). Offre : propriétaires particuliers, France, locations vides/meublées, parcours guidé, photos/vidéos, analyse de candidatures, rating et baux ; documents adaptés aux locataires expatriés. Achat à l'acte/dossier à préciser, pas d'abonnement annuel agences par défaut.
 
-Version 2.0 — 28 octobre 2026  
-Responsable de revue : responsable juridique. Statut : exigences à vérifier, aucune case n'atteste une réalisation.
+## Avant toute collecte réelle
 
+- [ ] Cartographier finalités/rôles Tenu, bailleur et prestataires dans le document 04.
+- [ ] Limiter les pièces aux justificatifs autorisés ; procédure pour pièces étrangères et superflues.
+- [ ] Remettre notice compréhensible au candidat/garant, y compris si les pièces sont fournies par le bailleur.
+- [ ] Définir bases légales, durées distinctes, destinataires/transferts et droits, sans consentement omnibus.
+- [ ] Tester isolation des propriétaires/dossiers, contrôle des invitations, liens privés, téléchargement, fichiers malveillants et accès support.
+- [ ] Vérifier stockage Cloudflare UE chiffré pour photos et vidéos, règles de cache/transcodage, contrats et absence d'entraînement.
+- [ ] Fixer et tester purge des médias séparés à douze mois après sortie ; calendrier distinct pour PDF et justificatifs.
+- [ ] Évaluer l'AIPD et les mesures de réduction du risque ; documenter toute consultation préalable requise.
+- [ ] Actualiser l'assurance : bailleurs B2C, vidéos, candidats, rating, édition des baux et traductions.
 
-## Précisions du responsable juridique — 29 octobre 2026
+## Analyse documentaire et rating — avant activation de ces modules
 
-**Stockage :** les photos sont stockées chiffrées chez Cloudflare dans l'Union européenne, selon les informations communiquées par le responsable juridique. Cette précision est intégrée au cadre documentaire ; la configuration, l'entité Cloudflare contractante, la région effective, la gestion des clés, les accès de support et les garanties de transfert restent à documenter dans la cartographie technique. Le chiffrement du stockage ne doit pas être présenté comme du chiffrement de bout en bout sans dispositif correspondant.
+- [ ] Finaliser contrôles réalisables et vocabulaire sans certification trompeuse.
+- [ ] Définir finalité, formule, échelle, critères/pondérations, exclusions/proxies et expiration.
+- [ ] Documenter rôle des anomalies et données insuffisantes ; option « non évalué ».
+- [ ] Tester faux positifs/négatifs, qualité OCR, langues et justificatifs étrangers.
+- [ ] Qualifier profilage/article 22 et AI Act par module ; ne pas présumer une exemption par l'étiquette anti-fraude.
+- [ ] Si haut risque applicable : satisfaire aux obligations et échéances correspondantes avant mise à disposition.
+- [ ] Prévoir décision humaine réelle, explication, correction et réexamen avec responsable identifié.
+- [ ] Interdire rejet automatique et fichiers de réputation/blacklists inter-bailleurs.
+- [ ] Limiter archivage des non-retenus ; supprimer aussi extractions/scores dérivés.
 
-**Interdiction d'entraînement :** les photos et leurs copies ne sont jamais utilisées pour entraîner ou affiner des modèles d'intelligence artificielle, par Tenu ou par ses prestataires. Cette interdiction est contractuelle et doit être répercutée dans le choix, les conditions et les réglages des API IA. Leur analyse pour générer les constats relève de l'inférence, avec rétention temporaire limitée ; elle n'autorise aucun entraînement. Aucune dérogation d'entraînement n'est prévue par cette offre.
+## Bail, état des lieux et langues
 
-**Purge à douze mois :** les fichiers photo séparés d'entrée et de sortie sont supprimés de la production douze mois après la date effective de sortie du locataire, renseignée et vérifiée par l'agence. Le délai ne court ni depuis le téléversement ni depuis la signature du constat d'entrée. Les photos intégrées aux PDF signés ne sont pas concernées par cette purge : les PDF et leurs éléments de preuve suivent leur calendrier documentaire propre, sans retrait ni altération des images. Les fichiers inutilisés et copies temporaires peuvent être supprimés plus tôt selon les délais dédiés. Les sauvegardes expirent selon leur cycle documenté, sans réactivation après restauration ; un gel contentieux ciblé ou une obligation légale peut suspendre une purge, avec motif, accès restreint et revue périodique. L'information des personnes doit distinguer explicitement suppression des fichiers séparés et maintien des images dans les PDF. La fin du service reste régie par la restitution/suppression, et n'impose pas une conservation par Tenu jusqu'à cette échéance.
+- [ ] Vérifier les annexes 1/2 du décret de contrats types en vigueur, y compris modifications applicables au 1er octobre 2026.
+- [ ] Finaliser le template 13, mentions, notices et variantes vide/meublé ; bloquer régimes non validés.
+- [ ] Vérifier décence/DPE, paramètres locaux, loyer, charges, dépôt, honoraires et clauses interdites.
+- [ ] Qualifier juridiquement l'offre rémunérée d'édition d'actes et les éventuelles activités réglementées.
+- [ ] Tester guidage entrée/sortie, état préexistant, vétusté/dégradation/indéterminé et grille convenue.
+- [ ] Sélectionner prestataire/niveau de signature et recueillir les preuves de recette.
+- [ ] Vérifier relecture, réserves, compléments, remise durable et statut de dossier unilatéral.
+- [ ] Ne pas facturer au locataire des frais interdits ni imposer l'achat de Tenu.
+- [ ] Définir langues offertes, version française de référence et revue des traductions du document 14.
+- [ ] Vérifier que le niveau de langue/nationalité n'influence pas négativement la note.
 
-**Grille de vétusté :** référence retenue : [article 4 du décret n° 2016-382 du 30 mars 2016](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032324427). Le décret encadre la prise en compte de la vétusté et le choix d'une grille issue d'un accord collectif ; il ne fournit pas une grille nationale chiffrée unique. Renseigner dans chaque dossier la grille retenue, sa version, l'accord collectif source et son acceptation par les parties au bail. Une grille interne non justifiée ne doit pas être présentée comme réglementaire. L'IA ne choisit pas seule la grille et ne décide pas de l'imputabilité ou d'une retenue.
+## Avant paiement et publication
 
-## Périmètre adopté
+- [ ] Finaliser lots, prix TTC, options, quotas, livrables et délais du contrat 10.
+- [ ] Qualifier propriétaire consommateur/non-professionnel/professionnel et les conséquences ; offre pro distincte si nécessaire.
+- [ ] Finaliser commande, confirmation durable, rétractation/service-contenu, garanties numériques et formulaires.
+- [ ] Désigner effectivement un médiateur et publier ses coordonnées ; pas de lien ODR obsolète.
+- [ ] Finaliser règles de remboursement, droits impératifs, responsabilité et assurance réelle.
+- [ ] Aligner pages françaises et traductions, notice données, code, prix et messages commerciaux avant lancement.
+- [ ] Recalculer finance et charges techniques sans réutiliser les chiffres des anciennes offres.
+- [ ] Conserver les versions acceptées et traiter séparément les contrats historiques éventuels.
 
-Agences immobilières en France, notamment au service d'expatriés ; états des lieux signés assistés par IA. Pilote de 30 jours sans poursuite automatique ; engagement payant initial de 12 mois facturé mensuellement ; poursuite mensuelle résiliable avec préavis de 30 jours.
+## Revue récurrente
 
-Documents : [cadre](02-Cadre-B2B-Agences-France.md), [conditions proposées](03-Projet-Conditions-Abonnement-B2B.md), [annexe RGPD/sécurité](04-Projet-Annexe-RGPD-Securite.md), [risques](../07-Risk/01-Risk-Register.md).
-
-## Compléments à clôturer
-
-- [ ] Technique/données : documenter le stockage photo Cloudflare UE chiffré, ses accès et clés.
-- [ ] Technique/juridique : vérifier les clauses et paramètres interdisant tout entraînement sur les photos chez chaque prestataire.
-- [ ] Technique/produit : tester la purge des photos séparées douze mois après sortie effective, la conservation des photos intégrées aux PDF signés et la gestion des sauvegardes/gels ; informer les personnes de cette distinction.
-- [ ] Juridique : valider la grille issue d'un accord collectif, sa version et l'accord des parties conformément à l'article 4 du décret du 30 mars 2016.
-
-## Avant tout pilote avec dossiers réels
-
-- [ ] Juridique : confirmer entité contractante, pouvoirs, périmètres de baux et mandat de l'agence.
-- [ ] Juridique/produit : vérifier toutes les mentions du décret du 30 mars 2016 et la comparaison entrée/sortie.
-- [ ] Produit : garantir lecture, corrections, réserves et validation contradictoire avant signature.
-- [ ] Technique/juridique : choisir le dispositif de signature, vérifier identification, consentement, intégrité et dossier de preuve.
-- [ ] Technique : tester remise à chaque partie au moment de la signature, erreurs et solution alternative.
-- [ ] Produit : traiter refus/absence de signature sans fabriquer un accord.
-- [ ] Produit : gérer les demandes de complément d'entrée sous dix jours et le chauffage pendant le premier mois de chauffe ; conserver les versions.
-- [ ] Juridique : vérifier le régime des meublés/inventaires et exclure les régimes non validés.
-- [ ] Protection des données : qualifier les rôles réels, bases légales, information et nécessité d'une analyse d'impact.
-- [ ] Juridique : finaliser et signer l'annexe article 28, y compris pendant le pilote.
-- [ ] Technique : cartographier les prestataires réels, régions, accès hors EEE et garanties de transfert.
-- [ ] Technique : tester séparation entre agences, comptes et révocation, stockage privé, liens, sauvegardes et restauration.
-- [ ] Juridique/technique : fixer conservation, gel pour contentieux, export et suppression jusque chez les prestataires.
-- [ ] Technique : vérifier contractuellement rétention et absence d'entraînement chez les prestataires IA.
-- [ ] Produit : vérifier les constats IA, omissions, traductions et validations humaines sur des dossiers représentatifs.
-- [ ] Juridique/produit : documenter la qualification AI Act et les obligations applicables à la destination réelle.
-- [ ] Direction : confirmer assurance adaptée au SaaS, à l'IA et aux preuves locatives.
-
-### Contrôles spécifiques au template et aux photos
-
-- [ ] Produit/juridique : valider le [template commun](05-Template-Etat-des-Lieux-Photos.md), ses versions et les mentions obligatoires.
-- [ ] Produit : rattacher chaque photo à la phase, pièce et élément ; comparer entrée/sortie sans altérer le document d'entrée.
-- [ ] Technique : intégrer les photos retenues au PDF ou aux annexes figées liées à la signature ; vérifier relecture et remise des images aux parties sans dépendre de liens expirants.
-- [ ] Données/juridique : valider les délais proposés section 6 de l'annexe RGPD et les communiquer avant collecte.
-- [ ] Technique : tester la purge des non-retenues, brouillons, caches, versions d'objets et copies prestataires, ainsi que les appareils gérés.
-- [ ] Technique/juridique : tester qu'un gel contentieux bloque uniquement les purges concernées ; ne pas supprimer une photo probatoire d'entrée avant comparaison de sortie.
-- [ ] Technique : tester la non-réapparition après restauration et tracer les purges/échecs sans conserver une copie des images.
-- [ ] Juridique : préciser le sort des photos incluses dans les PDF signés et les limites de suppression des exemplaires remis/exportés.
-
-## Alignement avec les CGU publiques et identité de l'éditeur
-
-Source consultée le 29 octobre 2026 : [CGU publiées v1.1 du 12 juin 2026](https://tenu.world/legal/terms/fr).
-- [ ] Direction/juridique : vérifier l'actualité des informations Global Apex.Net reprises dans le contrat, renseigner TVA et représentant.
-- [ ] Produit/juridique : remplacer les CGU B2C pour les nouvelles souscriptions agences et recueillir l'accord du représentant habilité ; distinguer les invités signataires.
-- [ ] Juridique : aligner mentions légales, confidentialité, remboursement, conditions des invités et politiques liées ; traiter séparément les anciens contrats B2C.
-- [ ] Produit : retirer la tarification à l'acte et les restrictions d'usage personnel de l'offre agences, et ne pas importer l'ancienne logique de clôture/suppression.
-- [ ] Juridique : supprimer le lien ODR obsolète et adapter litiges, clauses de modification et responsabilité ; vérifier les éventuelles protections impératives des professionnels démarchés.
-- [ ] Direction/juridique : faire valider la nouvelle version ; ne pas réutiliser la mention de validation DPO de l'ancien texte pour la refonte.
-- [ ] Technique : confirmer la cartographie effective des prestataires et moyens d'authentification, sans les déduire des anciennes CGU.
-
-## Avant abonnement payant
-
-- [ ] Commercial : fixer tarifs HT/TVA, utilisateurs, volumes, reports, dépassements et coût des signatures.
-- [ ] Juridique : compléter tous les champs ouverts des conditions et du bon de commande.
-- [ ] Produit : recueillir l'acceptation explicite du payant et archiver les versions contractuelles.
-- [ ] Facturation : distinguer dates du pilote, activation payante, terme initial et échéances mensuelles.
-- [ ] Produit : tester non-poursuite, préavis de 30 jours, absence de réengagement annuel et accusé de réception.
-- [ ] Juridique : finaliser retard de paiement, responsabilité, assurance et sorties anticipées.
-- [ ] Technique/direction : valider les engagements d'assistance, disponibilité et réversibilité avant de les promettre.
-- [ ] Juridique/fiscalité : vérifier TVA et facturation selon l'entité et la situation effectives ; ne pas réutiliser le seuil de l'ancien document.
-- [ ] Marketing : supprimer les promesses d'objectivité absolue, d'absence de litige ou de résultat garanti.
-- [ ] Équipe : réaligner stratégie, produit, finances, marketing et parcours applicatifs encore fondés sur le B2C/UK.
-
-## Finalisation des quatre volets
-
-Les [paramètres proposés pour les quatre volets](06-Parametres-Conservation-Signature-Service-Assurance.md) proposent les modalités à finaliser.
-- [ ] Juridique/agence : qualifier la mission de gestion, fixer la durée et le point de départ d'archivage après clôture des comptes, valider les délais des autres catégories.
-- [ ] Produit/technique : sélectionner le prestataire de signature (À confirmer), vérifier le niveau de l'offre exacte et réaliser la recette du parcours complet.
-- [ ] Technique/direction : accepter ou ajuster les objectifs 99,5 %, support ouvré, RPO/RTO, mesure, maintenance et recours ; démontrer les capacités avant contrat.
-- [ ] Direction/courtier : confirmer assureur/police, déclaration SaaS/IA/signature et données, couverture du pilote et garanties/plafonds/franchises.
-- [ ] Juridique : finaliser le plafond de responsabilité et les clauses d'assurance après réponses du courtier.
-- [ ] Juridique : identifier nominativement les validateurs et consigner décisions, date et preuves ; aucune case n'est close par la seule rédaction.
-
-## Confidentialité et remboursements — complément du 29 octobre 2026
-
-Voir les [compléments confidentialité et remboursements B2B](07-Confidentialite-Remboursements-B2B.md).
-- [ ] Juridique/produit : comparer les versions déployées avec les sources privacy/refund du dépôt ; la lecture web directe a échoué.
-- [ ] Direction : vérifier TVA FR89 941 666 067 et APE 62.02A déclarés dans la source, sur justificatifs actuels.
-- [ ] Données/technique : confirmer la liste des prestataires, les flux IA internationaux et la rétention ; ne pas présenter une migration prévue comme effective.
-- [ ] Juridique : adapter bases légales, notices aux invités, droits, cookies et procédure violation au B2B.
-- [ ] Commercial/juridique : valider remboursements, crédits de génération, délais, prorata et articulation avec SLA.
-- [ ] Produit : préserver les preuves lors d'une contestation de paiement et corriger la qualification de rétractation de l'ancien parcours si celui-ci est maintenu pour des contrats historiques.
-- [ ] Juridique : harmoniser les textes avant publication, sans étendre la validation de l'ancienne version à cette refonte.
-
-## Contrat avec une agence
-
-Modèle : [contrat Tenu / agence](08-Projet-Contrat-Tenu-Agence.md).
-- [ ] Juridique/direction : vérifier parties et pouvoirs ; compléter tarifs, volumes, dates, paiement et dérogations.
-- [ ] Commercial : faire accepter distinctement l'abonnement annuel payant ; un pilote seul ne vaut pas souscription.
-- [ ] Données/technique : finaliser l'accord article 28 et les engagements opérationnels avant données réelles.
-- [ ] Juridique/assureur : finaliser responsabilité, assurance et justificatifs.
-- [ ] Juridique : supprimer les notes de préparation, variantes et champs ouverts avant signature.
-- [ ] Opérations : joindre des copies figées et identifiées de toutes les annexes et recueillir les deux signatures ; remettre un exemplaire complet à chaque Partie.
-
-## Contrôles récurrents
-
-| Contrôle | Fréquence proposée | Responsable |
-|---|---|---|
-| Accès, incidents, remises et signatures en échec | Suivi opérationnel continu | Technique |
-| Risques et actions | Mensuelle | Juridique + direction |
-| Qualité des constats/traductions après changement IA | Avant déploiement | Produit |
-| Habilitations et prestataires | Trimestrielle et à chaque changement | Technique / données |
-| Veille juridique et conditions | Trimestrielle, puis à changement significatif | Juridique |
-| Restauration et export | Trimestrielle | Technique |
-| Conservation et purges | Selon calendrier validé, revue annuelle | Données / juridique |
-
-## Corrections de l'ancien cadre
-
-La vente B2C, le Royaume-Uni, la commission de récupération et les courriers contentieux autonomes sortent de cette offre. Le consentement générique, la purge universelle des photos à 30 jours, l'exonération totale de responsabilité, la qualification automatique de toute photo comme donnée sensible et les anciennes hypothèses fiscales/techniques ne sont pas repris.
-
-Sources et fondements : voir le cadre B2B. La rédaction de ces documents ne signifie pas que les contrôles sont implémentés.
+Incidents, accès et échecs de remise : continu. Revue des risques, des dates de sortie absentes et des purges : mensuelle. Tests de restauration/export et accès : trimestriels et après changement. Modèle/rating/traductions : avant chaque mise à jour. Revue du droit des baux et des clauses : à chaque évolution ou nouveau territoire.

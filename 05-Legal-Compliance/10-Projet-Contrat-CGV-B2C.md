@@ -1,4 +1,4 @@
-# Tenu — Projet de contrat / CGV B2C — dossier photos et vidéos
+# Tenu — Projet de contrat / CGV : propriétaires particuliers
 
 29 octobre 2026 — Projet de travail non publiable en l'état. Compléter les champs, l'information précontractuelle, l'encadré réglementaire de garantie et le parcours de rétractation avant commande réelle. Ce texte est distinct des anciens contrats agences et ne les modifie pas rétroactivement.
 
@@ -6,34 +6,38 @@
 
 Le fournisseur du service Tenu.World est Global Apex.Net, SAS au capital de 100 €, RCS Versailles 941 666 067, siège : 4 Boulevard du Château, 78280 Guyancourt, France. TVA déclarée : FR89 941 666 067 ; informations à vérifier avant publication. Contact : support@tenu.world ; données personnelles : dpo@tenu.world.
 
-Le client est une personne physique agissant pour ses besoins privés, notamment un locataire expatrié. Identité et courriel sont renseignés à la commande. Les coordonnées des bailleurs ou mandataires invités ne les rendent pas clients payants.
+Le client est le propriétaire particulier d'un logement loué en France, agissant dans les conditions de l'offre. Sa qualité de consommateur doit être appréciée selon sa situation et sa finalité ; le présent projet utilise le cadre B2C protecteur sans transformer une activité professionnelle en activité privée. Identité et pouvoir de louer sont vérifiés proportionnellement. Candidats, locataires, garants et mandataires sont invités/concernés sans achat personnel obligatoire. Une offre professionnelle nécessite un cadrage distinct.
 
 Périmètre de cette version : logements en France, régime du bail [à préciser]. Les langues effectivement disponibles sont annoncées avant achat. Les besoins des clients résidant à l'étranger sont examinés sans écarter les règles impératives qui leur seraient applicables.
 
-## 2. Objet et limites du service
+## 2. Service, parcours et portée
 
-Tenu aide le client à constituer, organiser et comparer un dossier d'état du logement à partir de photographies, vidéos et observations, à préparer un rapport et, si la fonction est incluse et les parties y participent, à établir un état des lieux contradictoire signé.
+Tenu propose au propriétaire un parcours intégré : qualification du logement, collecte encadrée des candidatures, contrôles documentaires assistés par IA, rating personnel sous conditions de validation, édition d'un bail vide/meublé, puis états des lieux guidés avec photos et vidéos et comparaison à la sortie.
 
-Les suggestions IA doivent être relues et peuvent être corrigées. Elles ne constituent ni un constat d'un commissaire de justice, ni une décision sur la responsabilité du locataire ou le dépôt de garantie. Tenu ne garantit pas l'accord du bailleur, l'absence de litige ou la récupération d'une somme.
+L'offre achetée définit les modules réellement inclus et activés. Les termes « vérification » et « rating » n'emportent aucune certification d'authenticité, garantie de paiement, décision de sélection ou assurance. L'IA signale les incohérences, explique les contrôles réalisables et peut s'abstenir. Un document étranger, incomplet ou mal reconnu n'est pas un faux de ce seul fait.
 
-Le dossier du seul locataire est identifié comme unilatéral tant que les conditions d'un état des lieux contradictoire ne sont pas remplies. Le bailleur/mandataire peut faire valoir observations et réserves avant signature. Un refus n'est pas transformé en acceptation. Les voies légalement applicables restent disponibles.
+Le rating du candidat à partir de pièces n'est disponible qu'après définition de sa finalité, méthode, critères, droits et qualification réglementaire. Le propriétaire décide après revue réelle ; aucun rejet automatique ou liste noire inter-bailleurs n'est prévu. Les critères protégés et leurs proxies ne sont pas utilisés comme facteurs négatifs.
 
-La grille de vétusté éventuellement utilisée est identifiée par sa source, version et accord des parties ; aucune grille nationale unique n'est déduite du décret du 30 mars 2016. L'IA ne choisit pas automatiquement une grille ni une retenue.
+Le bail est conclu entre propriétaire et locataire, jamais avec Tenu. Il est établi à partir d'un modèle réglementaire versionné et de données vérifiées, avec annexes et paramètres locaux ; les clauses ne sont pas inventées librement par l'IA. L'offre d'édition et ses éventuelles qualifications réglementées doivent être validées avant commercialisation.
 
-Le recours à Tenu est volontaire. Il n'est pas présenté comme une condition obligatoire de participation à l'état des lieux ou de remise des clés, ni comme un moyen de transférer au locataire des frais interdits.
+Le parcours guidé aide à décrire pièces/équipements et médias utiles. L'IA distingue à titre d'assistance usure/vétusté, dégradation possible, préexistant et situation indéterminée ; elle ne décide pas d'une retenue. La grille convenue, sa source et ses paramètres sont identifiés.
+
+Un dossier unilatéral n'est pas présenté comme contradictoire signé. Les parties peuvent revoir, corriger et réserver leurs observations avant signature et reçoivent un exemplaire complet. La langue française du document de référence est accompagnée de traductions identifiées si offertes ; toute divergence peut être corrigée avant signature. Ni la langue ni l'expatriation ne pénalisent le candidat.
+
+Les régimes hors périmètre du générateur (notamment mobilité, saisonnier et cas spéciaux) sont bloqués tant qu'aucun modèle adapté n'est validé. La prestation Tenu est volontaire et ne transfère pas au locataire des frais interdits.
 
 ## 3. Offre et prix à compléter avant commercialisation
 
-Le client paie à l'état des lieux ou au dossier. Aucun abonnement ni engagement annuel B2B n'est inclus.
+Le propriétaire paie à l'état des lieux ou au dossier selon le lot précisément décrit à la commande. Définir l'inclusion éventuelle des contrôles de candidature, du rating, du bail, des traductions et de la signature. Aucun abonnement ni engagement annuel B2B n'est inclus.
 
 | Élément de la commande | À définir et afficher avant paiement |
 |---|---|
-| Unité vendue | [entrée, sortie, pack entrée/sortie ou autre dossier précisément décrit] |
+| Unité vendue | [entrée, sortie, candidature, bail, pack ou dossier ; modules activés et limites] |
 | Prix total TTC | [montant ; taxes et frais inclus] |
-| Photos et vidéos incluses | [nombre, poids, durée, formats et résolution utiles] |
+| Photos/vidéos et candidatures incluses | [nombre, poids, durée, formats, candidats, pièces et analyses] |
 | Livrables | [rapport/PDF, annexes, comparaison, signature et export effectivement inclus] |
 | Début/délai d'exécution | [événement de départ, délai maximum et conditions] |
-| Corrections/régénérations | [nombre et procédure ; droits légaux préservés] |
+| Corrections/régénérations et réexamen du score | [procédure, responsable, délai ; droits légaux préservés] |
 | Disponibilité d'accès | [durée distincte de conservation, procédure de téléchargement] |
 | Conservation des PDF signés | [durée et point de départ justifiés] |
 | Éventuelles options payantes | [prix TTC et consentement exprès ; aucune case précochée] |
@@ -87,13 +91,13 @@ Les clauses B2B de pénalité forfaitaire de 40 €, plafond calculé sur abonne
 
 ## 7. Photos, vidéos, droits et usages
 
-Le client fournit les informations exactes et dispose des droits/autorisations nécessaires aux médias soumis. Il évite de filmer les personnes, conversations, documents privés et espaces tiers non nécessaires. Recommandation de conception à confirmer dans l'interface : vidéo sans son par défaut ; aucun droit d'enregistrer autrui ne résulte de la seule acceptation de ces CGV.
+Le propriétaire fournit les informations exactes, ses pouvoirs, les données du logement et les pièces qu'il peut licitement utiliser. La collecte des justificatifs est limitée à la liste réglementaire applicable, avec traitement des pièces étrangères et suppression des pièces superflues. Il ne dépose pas de documents interdits pour obtenir une meilleure analyse. Il dispose des droits/autorisations nécessaires aux médias soumis. Il évite de filmer les personnes, conversations, documents privés et espaces tiers non nécessaires. Recommandation de conception à confirmer dans l'interface : vidéo sans son par défaut ; aucun droit d'enregistrer autrui ne résulte de la seule acceptation de ces CGV.
 
 Les fichiers sont associés à une pièce, une phase et des références de date/provenance. Les extraits et modifications utiles sont traçables ; une empreinte ou un horodatage ne garantit pas à lui seul l'authenticité des scènes.
 
-Le client et les autres titulaires conservent leurs droits sur les médias et observations. Tenu reçoit seulement les autorisations techniques nécessaires à la prestation, à la conservation convenue et à l'export. Le logiciel et les gabarits restent soumis aux droits de leurs titulaires.
+Le client et les autres titulaires conservent leurs droits sur les médias, justificatifs et observations. Tenu reçoit seulement les autorisations techniques nécessaires à la prestation, à la conservation convenue et à l'export. Le logiciel et les gabarits restent soumis aux droits de leurs titulaires.
 
-Les médias, pistes audio éventuelles, transcriptions et images extraites ne sont jamais utilisés pour entraîner ou affiner les modèles de Tenu ou de ses prestataires.
+Les médias, justificatifs, extractions, notes personnelles, pistes audio éventuelles, transcriptions et images extraites ne sont jamais utilisés pour entraîner ou affiner les modèles de Tenu ou de ses prestataires. Les résultats de candidature ne constituent pas un fichier public ou transversal de réputation.
 
 ## 8. Signature et conservation du dossier
 
@@ -107,15 +111,17 @@ Les images fixes incluses dans les PDF signés restent conservées selon le cale
 
 Les sauvegardes suivent un cycle borné ; les copies déjà remises/téléchargées ne sont pas effaçables à distance. La fermeture du compte n'entraîne pas une altération immédiate des documents signés.
 
-## 9. Données personnelles et sécurité
+## 9. Données personnelles, score et sécurité
 
-Global Apex.Net détermine et documente ses rôles de responsable de traitement pour les finalités de la plateforme B2C ; la notice de confidentialité précise finalités, bases, destinataires, transferts, durées et droits des clients et tiers concernés.
+Les rôles se déterminent par finalité : Global Apex.Net est responsable pour ses finalités propres et, selon les traitements réels, responsable/sous-traitant/autre qualification à finaliser pour candidatures, rating et édition. Le propriétaire n'est pas automatiquement dispensé de ses obligations parce qu'il est consommateur. La notice des candidats/locataires et l'accord article 28 lorsque requis sont finalisés avant données réelles.
 
-Le chiffrement et l'hébergement Cloudflare UE des photos restent l'information communiquée. Le même niveau de protection UE chiffrée est requis pour les vidéos avant activation ; configuration, fournisseurs d'inférence et traitements internationaux doivent être confirmés. Aucune promesse générale de traitement exclusivement UE ou de zéro rétention n'est déduite de ce stockage.
+Les personnes concernées sont informées avant collecte directe, ou selon les règles de collecte indirecte : données, sources, finalités/bases, contrôles et note, logique utile et effets, destinataires, durées, transferts, droits et réexamen. L'acceptation de l'acheteur ne remplace pas les droits des candidats ; pas de consentement omnibus. La revue humaine doit pouvoir modifier réellement une sortie.
 
-Accès limités, sécurisation des liens et fichiers, minimisation de l'audio et droits d'export sont définis selon les mesures effectives. Contact : dpo@tenu.world ; droit de réclamation auprès de la CNIL dans les conditions applicables. L'absence d'entraînement n'exclut pas la rétention temporaire documentée pour l'exécution/sécurité.
+Le stockage photo Cloudflare UE chiffré est l'information communiquée. La même exigence doit être vérifiée pour vidéos et justificatifs. L'inférence ou la vérification externe peut avoir d'autres flux ; aucune promesse générale de traitement exclusivement UE ou de zéro rétention sans preuve.
 
-La notice adaptée au B2C et aux vidéos doit être finalisée et remise avant toute collecte réelle ; l'annexe de sous-traitance pour agences ne la remplace pas.
+Les pièces des non-retenus et les scores ont leur calendrier court et distinct, à définir dans la notice. Ils ne suivent pas la règle des médias à douze mois après sortie. Les corrections se propagent aux dérivés et notes ; pas de conservation du score pendant tout le bail par défaut.
+
+Contact : dpo@tenu.world et contact du responsable du dossier indiqué dans la notice ; réclamation CNIL et droits selon régime applicable. Accès et téléchargements sont limités aux personnes habilitées ; les autres candidats ne sont pas exposés. Les garanties de traitement et la qualification du rating sont validées avant activation de ce module.
 
 ## 10. Responsabilité, fin d'accès et litiges
 
@@ -131,7 +137,7 @@ Les CGV acceptées lors de la commande restent identifiées ; une mise à jour d
 
 ## Documents de préparation
 
-[Cadre B2C photos/vidéos](09-Cadre-B2C-Expatries-Photos-Videos.md). Les documents B2B restent historiques ; ils ne sont pas incorporés au contrat consommateur par simple renvoi.
+[Cadre actif propriétaires](11-Cadre-Proprietaires-Parcours-Location.md), [analyse et rating](12-Analyse-Dossiers-Rating-IA.md), [template bail](13-Template-Bail-Vide-Meuble.md), [notices multilingues](14-Notices-Locataires-Multilingues.md), [matrice RGPD](04-Projet-Annexe-RGPD-Securite.md). Les projets agences et locataire acheteur sont historiques ; ils ne sont pas incorporés au contrat par simple renvoi.
 
 Références : [article L221-28](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563170/), [DGCCRF — rétractation](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/delais-de-reflexion-ou-de-retractation-comment-sappliquent-t-ils), [DGCCRF — garanties numériques](https://www.economie.gouv.fr/files/files/directions_services/dgccrf/Faq/FAQ-garanties.pdf?v=1757056285), [médiation](https://www.economie.gouv.fr/mediation-conso/vous-etes-un-professionnel/vos-principales-obligations-0).
 

@@ -1,5 +1,8 @@
 # Tenu — Market Analysis
 
+> **Statut documentaire — orientation propriétaires du 29 octobre 2026.** Étude ou cadrage historique à revalider pour le segment propriétaires particuliers. Source active : [cadre propriétaires](../05-Legal-Compliance/11-Cadre-Proprietaires-Parcours-Location.md), [produit](../02-Product/01-Product-Specification.md), [hypothèses financières](../04-Financial/04-Hypotheses-Proprietaires.md). Le propriétaire particulier est le client ; les anciens ciblages/prix/abonnements ne s'appliquent pas par défaut.
+
+
 **Date:** 2026-04-02  
 **Sources:** Campus France 2024-25, TDS Statistical Briefing 2024-25, LocService.fr 2024, DPS data, ICEF Monitor
 
